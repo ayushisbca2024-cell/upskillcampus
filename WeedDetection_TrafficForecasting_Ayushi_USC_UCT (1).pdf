@@ -1,0 +1,2905 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 13
+/Kids [ 4 0 R 14 0 R 81 0 R 82 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3994
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 702.6614 cm
+Q
+q
+1 0 0 1 62.69291 682.6614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL 118.0409 0 Td (Industrial Internship Report on) Tj T* -118.0409 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 636.6614 cm
+q
+BT 1 0 0 1 0 23 Tm 8.289882 0 Td 18 TL /F2 13 Tf 0 0 0 rg ("Weed Detection and Smart City Traffic Pattern Forecasting \227 A Machine) Tj T* 101.4845 0 Td (Learning & Data Analytics Project Suite") Tj T* -109.7744 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 592.6457 cm
+Q
+q
+1 0 0 1 62.69291 580.6457 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL 204.9864 0 Td (Prepared by) Tj T* -204.9864 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.6457 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F2 11 Tf 12 TL 187.5679 0 Td (Ayushi Shankhala) Tj T* -187.5679 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 526.6299 cm
+Q
+q
+1 0 0 1 56.69291 208.6299 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 300 cm
+q
+.85 .85 .85 rg
+n -4 -4 473.8898 20 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm /F3 11 Tf 12 TL 180.6729 0 Td (Executive Summary) Tj T* -180.6729 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 265 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 2.405797 Tw (This report provides details of the Industrial Internship provided by upskill Campus and The IoT) Tj T* 0 Tw (Academy in collaboration with Industrial Partner UniConverge Technologies Pvt Ltd \(UCT\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL 3.046751 Tw (This internship was focused on a project suite provided by UCT, to be fully implemented and) Tj T* 0 Tw 1.663464 Tw (documented within a six-week timeline. The objective was to apply Python programming, machine) Tj T* 0 Tw .893169 Tw (learning, and data analytics to solve real-world problems in the domains of precision agriculture and) Tj T* 0 Tw (urban traffic management.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 76.7 Tm /F1 10.3 Tf 14.5 TL -0.062721 Tw (My project involved designing and developing two independent, industry-relevant applications: a Weed) Tj T* 0 Tw 1.182136 Tw (Detection system that uses image processing and machine learning to distinguish weeds from crop) Tj T* 0 Tw 1.302226 Tw (plants, and a Smart City Traffic Pattern Forecasting system that analyses historical traffic data and) Tj T* 0 Tw 1.039455 Tw (predicts congestion trends to support smarter urban planning. Each application addressed a distinct) Tj T* 0 Tw 2.459336 Tw (real-world challenge \227 one in precision agriculture and one in intelligent transportation \227 while) Tj T* 0 Tw (sharing a common foundation in Python-based data handling and model building.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 76.7 Tm /F1 10.3 Tf 14.5 TL 6.03124 Tw (This internship gave me exceptional exposure to industry-relevant engineering challenges.) Tj T* 0 Tw 2.47373 Tw (Implementing these two applications from scratch \227 each with distinct data pipelines, modelling) Tj T* 0 Tw 4.761189 Tw (approaches, and evaluation methods \227 sharpened my ability to write clean, modular, and) Tj T* 0 Tw 1.617905 Tw (maintainable Python code, and deepened my understanding of applied machine learning. It was a) Tj T* 0 Tw 2.109456 Tw (deeply enriching experience that bridged academic learning with real-world software development) Tj T* 0 Tw (practice.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+1 w
+n 0 318 m 481.8898 318 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 318 l S
+n 481.8898 0 m 481.8898 318 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 68
+/Subtype /Image
+/Type /XObject
+/Width 187
+/Length 5006
+>>
+stream
+Gb"/+CJ\#2)a9!&-lPQaRcO\f2.7aF'I?\j98Y,>GpuH::oQ]7^I$'oe:rPE10Q)p;k\dQNgc:?muE`2:f%_l$&XNEE`#*Fn!UNEgTt!tmr],]OX%$l#GZX\li+![IGVC+5!#6fKS5#3KS5#3KS5#3KS5#3KS5#3KS8$p_SX1<daHk'\nTWjFkmi?ZbqkJ6^!UqP*;(c1G`t)\5?(!:f:1hVT1XQHrJY1P;#)Ng"DoXGO@0jd,qI>hQ#nu8XL;41hb7MIJ[<^Ftmh/pYUHF,9uNcG7s$AYU)7g3'TVLoO%rGn`%MWN>g>i#:7S"hVR+e:S3+.kRenq!.TLu]'c5E=TDdiNAo_H[V_K`:Pc'&mZmU1"OOYuj+rMIgUD+m<6<8(nalA,^3t?RH24[Q_s4h2&p4Tg&g&2;-ki1%p[6jqM2?fUKpf9Ro8XhQXK8Mg]"dnCE9RfN2Jgj>NMi];]Qs+704,b@*PGq$MQaeo)QEeo*d:t9i<;LV0S!<\W\A.Z>IA3gq!__B!0iY0_R,=(R^=ls%m"n#\7E^Ej2[2s'c!\T!+j'>3cuo%.a$W)?F?@?/R$r>EJ#\D$CRX7c'gLo\T27qBdqq8F:t:fdaHPXm69]Hh7@`RGkh77pB<\<;,U:)()@+#0XX%a_H:#H:REg:m,boQG'<S2"Uk+8"5hP/>IPqRRac4NSi?<.fb6/H/ZR1=bfkJ-eQ:uBT)rGIp$.g-Q1aY*6`-,urqRos1(nJ[O#tUU2i!PF/hZ9(/n$jH$lEsHcCGl[KchTb"5uqQe's$g4ErP8*M+_e#mmc;Y.VK#*hGQD3dEdUkg?/<JhW`VF`OF<G4"!t)8k,gE52[_Z*@^iG4+-'M'OO(4b]Hpio5R3#mq%9pu@D?%2sn2HKh8mZl28bQS)Qi6FIFN-RUDf^sn&-p%>.s"p`T*e&RFeVeY"^7usIA,itir=Wu#F]6DH!!nu)>_Euf*bKHrV_rmYA*Y8mu>_MAZ3,fuh'bV.BPES?UCgr\;$4?e-it#.1Jma[u@N(mtGlC'c%Y5.%AS#?23HO>ERVSHJ9RNN?;c-CHD;$g_1"CmF2S]:k4#<UDJh[+=T0.BsM_Nd7r,U#Q4aZ>8RES+p@CQnCf5JG&`]l(QJC^"9<.I5`iPGc#,#C.)+MGolRl6g"Gqtb^ePL!q.^?'D_SA<D8*o$APJ0QnK>"L(eLEXB4$ditB(t`LF>rJ2@D':eq;osI$j-;"hg[:eMZWZ%3kdt(@!enWk2k\2('5O`[1rJaW`:QT/J/1n"aqL4!TKEZ21GIJoRXB'&L$ZFKiBRJFpZ&.'\!n,^_S0D@>(is,=X)`$l_)ubB!4:c%<41\[e^1',QKIHZHtGo*l-<c-=KZAJrA#f+DG'Df6^>+(&,PpuRiLWn&C$_d?J5$TV!EEob<01M?J.JcIO(A]pC8'd"M><?#?#[V^W$?koo7F6Ci&Y!uJ_N>hKX]C/(&A,-\uFL=CO`#?3<6Pog'Crqhdq>'j)5SD(]_@ZY@kF\+H</<!??d.]dZY*8i_ns8].io`Q>(I+;le8a^N<f@AK_a_r?Nc%5`iH2BU^\SXpdGl.-8@6;:D9rtWp_5T5($K&kCUVW11oL^L!Iuhil=NgW#9#[D/GPS80JCHAR&JFY?nnUbPCbm1R1VMn1,=q*3;c"U7rj6,9>#"K*Mp3-8]Yt>c1X))&X;qKHYjR6E:%NYJ9r0q74)JU*25>i5<1l&dJ:@$k,PpY"T*,K9]/(9CqfJCnM#M0+#Oh>(g%nI_AdWN>aZ@.m+%tGODQ]V]jrGpRR[*1_9g50>S``^S%5B_#rn9&Z/pMI[;]p`]?G4.2)alK>B#JI0'HO#g!Au@2KhW(p*^,++9s8-n)?<h)`9M8WtJ5"1S`@*8)IM*t0;:,,0GYmS(5^'#r&8C$X?PM@ZKh6`>V96^];L-UYeuO/niW_N^:L0Oq1!_B>s%3cq<nh64QhMQ[@#Xr)9If^[\'CPLIb6:F<H4;Gu!#Rh@.jd0=\Y[@Jm:E.Z6_*YVLhgY%N]ujVP(]e'bNZH<HM^i-hr4[UV$JM%/D&Qd3d\TTN)^O.\QS1;[kYDRgq@b5O]_U]ZUd>)j0P&6JAG:ImWMul>KREX\V[.eE>tLD%&8&q@)9bO%KYcsC<CK>F0kPD(mdBM)Rb+`MkO"8IJHH-J8u5,sGRVY.f^MjkO,B!ZGB@q+qQjYM$H>OJ7R.eD0/%c7<!d%g,_^r+nPp`-C"]7S!s]<pNK$@^Klt?+<m1(?:3sBcftuL=E`i&"dtd1B,RdJ9e#,u#CtMS7GiHYur7n:b"qrWa^'9$rj2R(+<TD,\2qVPL=I@_^4aOd8hKtriTf[Jd<.,LR!J]8o&"YJ2V[W=BbKJ:Y3rMnu#ub)6b`!.Z+50N@3'9<n?OKlN!-*!u=pH:<QBl6!BoG3FP(SBS%>OB3M_C)34W6Xdl]EJrNo%HrCMB0Wa@KLu,57K_CR/_u-"1]J]ZH*Eql>5Hri4!$c_'CP6AmO"5550/H:Eo7aaa&OPETKd@oME=+D*3/[#"/T!I<KfM_L,02a2BL'R^S(3BS/9MBpENA&nB/7:sB+:>"7QD;)@RaYsNXJq?r."/'\k=Wq/OqsV:Fj8JlL_cM@EcmiPFN-YI%pB(HuTKSrk+sJ43Y$?guiitb_C41S(?FLJV8W`/[-OJJZg#PR*)Nlf%dF"sMN5.8uqK*N:&C:Sno`Dumej"P(G':l)J-ec1iO_uc;Kt!rLtT+Ilh!s^[&O2G0am<j^O<48#:L`ZLC"@tA;VHnI[iUAd8cemcrX://7,uV-OaU;[fea7l=>KXY;oR)X;3Ep]Z>#"0ju-h@iUd@?KKb?>?VE'St8]kdt($KFgqJu\Uq)b*X36"`,t4i5ti+G/#u$m%P`1ZXB@nL;-h&;+s\Fe-]BOj,'3X/#s3rmXJ6,IF^JK_rh6#8@5(SQ[?3+=_9Bg76g<%)A]k4)5Si_SmS88:N^/=Q#Nmc8bjFWAUIb=lT(KI*dfu;1^5EF%c_I!de-]UqD2fgbPq,p0:P!8UD;2K1SDp,MV.*qE&QXi<bc"C6Y_ZJW637"F\$n<P+6]Q6]KC0_E%Ek(FjHXB#7hm"c-6uqacr*WP3:uI4A/"Ucd[]XPQR=W+cN1kUQL4<r0s)Sq'2,Vi$]=uNa5G0XKPf\C!rg!k09A!'2hk3k3(pJoEUQd4_&FdNJF6oN?J]M&aUASlu_g?r0%ek\@<C)BI%$EMbLeY2$^ead\TU_Sio_F!]qF&'p4:lj^FsH1"WH-g/s7eUh4:P6p3RnJUsaI-724Jof:5DdN[5;XBIjuO?L`&;FWjP7_FB/]ic*9f<7^2$P*b\Y.sPM.nW+oSXY@!hD3%M2f.+h[Y3qpqFKChJ:V*S]63H%jQ&^X%tQaU,&^Z5J:X(AUm/!`/b8!pP9u8+0`mPTn9m=Hr6nG+4iro.a81"#Yf]S/`kN&%&!M+&^J:-4<*0uh12srW*n=N/B*JPH;e(b,4'(jeOVZkWTQ'[%%`*Yi1oI>bI"3YS,++BE3rLO(SilhaJHO!9`=a(L4)?$lI=-G'DloB_9M--'6l#p5SiqGGR58L)VG/Kg.@2Ym6D0)R4`f`oUif4!Ll70!D!2]]@@g:AbfGnk:#.F4JFT36Q>USXJUrB6VWaMDKP;Q5jE]UqHZutNeK8]qJ4&6>O$?gWDZ-4-"1`^7^3u8R:ISDkI/W`iRGpSh%]*`$,hBnj'>aSq;l1ZB0lgOF,3k%>`l$6QEm'b#aPr>.>ePHkTV,]mrr((,ieW$098InQ%0#tTD]_pH)q0=M.kN>!^Y1hsoOsI8R:CD`G%"f&_C3O"OHO*?`f(eQ'L-g0>]=X9q=ig`K9:/K/2#p8S0oYf^'7Uo-Ob/ZP1b9\p5r^-ZEgcNf</CG63?@:59%RR^N],fe8ef!**o'G-7LC#$$LK8G-IkNK+uO5O(QY*To$_+7'qPD"pkAqB4PNqg*39s8anYq1_dl/I4(p6^s!*@I/*3Rb"Cf%$i#58T76b8.9A_1lneD>GS9cnqK)mo8P;_"aiU7&kch.h=0DhiBYqQicqPY%_\M[`+CW'IU7rjC;6VYq+Fnb0=`<6empB34bkLdQM][ECiPL9V@eYnp&C94ihDR8Mp[?u]0OTEO$\\?G`uh"^(G8sk>_HPe<G'LE,p8/%LIZ6"/u4Ck_SGEPT4$Qm):mCn6j$Z2Yppk1c0#nFTjH<P>:6k15=@a[Dkoci7FCg^0[LYU!fCrN%)./e[_9AfJ1tcjY5R[i^CY8k&dBVtr^,J.R@1To_Zkp'Xd:(TScZ?<h&7:S/MKGu[;k6H4aZma-Qo&_aRIo!YE?GM0\@)LprOnUkk+0KA,'&W)k&HWXc)h-Lkn<<K>;YQFk%?WH?K)"1j/(_coWa.$P(5#bGtj)O%VSqQ7Z=,St7Pg^e-negpqJR9+UC]LCYInG*9Ij0_i[)?[QkSa:\?f`Pi#W#DkH.R(IS2r`9W+`h&cnMO-#[0Ebc.SC3&s'2Y1h7?tg?KWhRt77@CYF.,/gfa&34o't3kn%=9Het9g>*BT9%4%9]X'Z+5u&TmmDmuM9'R2!(o6Pq-q.=bSk,/?=-#N,+Cnim!@6_44S.G`h9l+7]H(=5;*:N[pV"QUJ?#Ve%g/R,Y/OqKdril-hZ?+Yif`6oVfGS'nOMtHGn]<JLNb#V"E7]1a2'uo<r7&SA4N?J_7CY,_Q-Vkr1OU`Mc"tbstFm.1<Ve>@u>IPRl*6;F`L$C9>.I#9WMi$Ra64BgGP`umKg"j8a_g?nu&0u]#oYJs83B96In::=0'A`g8KR?ll'?8;A%DDmpM*+BgShP+s."r-V,UE<co?YM!b0%l"=GTR8D=R/dq>'jU?'*iuM2@<]X&c@&`t,8r+1AVdf[OjPE&I7Lbu=2(\)2X]rquTi%j,63#6b:i++jb,!ZB'JX<=m0ncBkG&/H$NI]!e7@.)g\Jdt&oba^[,WDdVL/6"?o(k!3#IIP&XCY#RQQ3=39/P8Q)84Z;$1].amMFOc~>
+endstream
+endobj
+12 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /DCTDecode ]
+/Height 470
+/Subtype /Image
+/Type /XObject
+/Width 390
+/Length 19518
+>>
+stream
+s4IA1!#S.LBk@>F8P(B3#QOi)zzs6K^t7!3!TGlRjF"98E%1&q=Si<+sNFEDI_0/%3a/n&:/@V%0%Df%.P@;mkS/hepY4?n(0@:O(aF<G%(B5)6H,4E.Y+s:T14X*rb9e]:\6Y0qF8:#;f;gM2<@sVp#3Fj<u4s2t43d>L\D.Rft+F%a>DK@j`4X+<FDdm9=DK@jUATV?6+s;+kG\qDACHWk-A8bpg+BV?7+@C'fAKWuc0eHlh0Jah13A*<M3A=l$2eHPN+>PW+2(pX>0/,:91,(aH0KLpH+<VdL+<VdL,!I,3Eb&cC;FEtsG\q87F#n>PAj%>OFEDI_0/%NnG:n(q/oPcC0/5II3A3'A0/>:7Eb&c6F*VYF@<aAAF!Dkm+?X[TAi`=kF(96)E-,f4DBNt1Aia@0Dfp.b+sJ.SD/=*23d>L\9hdbpBQS?83\N.(F"Um3Ddm91@rH3;G[YPE0eP.5D/CpM+F%a>DK@j[FAc[^4X+Q]FDs8o05bh`@:X:cAM.J2D(g-BE%`pu0J@KHH#R=J;IsofF`Lu';IsGb+s;,ICi4;TG\qC_,%u(?E&oX*DK@F=A8bpg/n8g:06goE0/5(50-VN`D/`3D3_sd1B5)6lCd`2OF_t]-F@ek`,'[sD/nA[,3]1G[2E<a-Ah@S*@59EH0JkU<3&!'C/S8NM3&tS_3FjjV@Nlq>D/`3D3^dmrF_t]-F@ek`,'[sD/nA[,3\s,]6oZnU2`<ZP0ekCP0L@ZX2+'el7Q3.Z6UF720d7`bD/`3D3_=41FCB&sAP#9Q,'[sD/no$13\s,]6oZnU2E!QO0ekCP0L@ZX2+'el7Q3.Z6UF720d7`bD/_O'Eb/[$DfSfqDeqQ\6"FnCAKXf_Dffo=BQ%i46W5c`=(uP_Dg-7H4s2t4D/`3D3^dP"Bm+&u7WNEa+EMX&AS*u;DKBo.DI[6L6p2`=D/_+ABk07Y@:j"[1GL[;AiMY./NGXE3A"YuA2Gkp0f!2s1Gq0Q3&iZ;+EMX&AS*u6De!p,ASuT]6p2`&A8bpg3b3/=Bk08DBQ&!2F(fK23]T'0@q7PY@kBPl0ek7:@5Kko3+HGV/S6\G1LW+M2)\u'@j3Qi+?V;tA7dkjATM@%BlJ0.Df.`]4>1_cAi`gX7QqqW06fO&D/a?'FC@?U4?n(0@:O(aF<G.4A3D,W,!S9kiXAp\6UP3W;GTbR9LSp^!<<*.85*`8DZUIM!,ZUqE`,Co+BVcM+:$0l!WWN,"op@X!+BAYE(s8#;ucmu!(fUH+ELFN63$uczz!!!#mec5^N!!!#J/P&\\+92BAzzzzzzzzzzz&S#d#F8u:A:]LIq1Lt'<@fQK0KE(uPCj0u?F8u:An,NFg'OkisF8u:B"98E%'QR;Y=o\O((]XO9'PCNN=o\O(/-#YM'Ok0I=o\O(5QCca'P)&uA,lT2;ucmuE+EfrA,lT2_uKc;Lj!oPA,lT39E5%mL3@9BG5qUFe,TIK,]%U?B`J,8p](9o'Q%DiErZ1C$ig8-,]mU-BE/#80E;(Q%!#<F6N@)h49,?e$tiO;6N@)h49,?e$t<166N@)h49,?e%!6'*F8u:@!(1[DH#dV3BQP@F@jrNT3B9&A87d!]ATW#G:gmjL@<,m$6Z6g\@;^>j!+]Y^@fQK/z&p$r@66Jig6T-YZ2E!-B/hm>+zz!"s?N7m\=i77/sf3ArcI1+k9]zzzzzzzzzzzz!*EB-+92BA!!!#j;#gUs!!!$8bZJ"O+92BAzzz!*EB-+92BA!!!";U&Y0Qo`+soOB>Xh+92BA!!!".R/d5rK`D)ig/qK]+92BA!!!!ETE"s&KE)"\cX^U.@fQK/z(.gq^+D>k=E&oX*GB\6`Bk:d,@qYiBzz!#A-p6Qg&aFDs8o06_Va/nnm,/n8Ppzzzzzzzzzzz!+]Y^@fQK/z/kJK!+>tr72E!-B/hnJ:AS,@nCigdt7m\>.Des?7EZfFB@:Njk/Kf+47m[1Uzz!%pi36Qe9A3ArcI1+k:(6tKt=F_l.B;Fa%r@rH1%F`JUGE+*6f+>"^W;Fa%Rzzzzz!+]Y^@fQK/z/5g%kATD@"@q?c`Bk;L&DJ((ZDf0*"FD5Z2+DG^98OZ!)0f_-M/M\q5zz!!!!M;IsHOEb0,uAKY#fATqj+B-9Q[DIdI'Bl@l3Bl5%b77/sf3ArcI1+k9]zzzzzz!-W'fG5qUC!!!\.rW!X>/cZI/'EA7&bQ%bZ$NL96ScA`j!E`K.+92BA!!#\!<WGqr!!$(BkA=d=ErZ1?z!<<*"zzz!!!!#NrT.[!cr'g+92BA!(0X`+CfP7FoVLB!!!!%z"TSl0%fd:D)#t]X,60+l/H@O+2ZPo>5QF4Q8cVWe;ug&$?3"I8BE2lLEWC:`HiS]tL&d,3O8tOGRK/r[U]@@oXoPa-[fF&@_#VITb5flheH">(huMj=lN$DSp&Osj!<EE+%07+C)$(f[,loLs1''?84on(Q9EA#l=TMn2B)ulNFTHjjK)pl2Oo_!PT`M+nYlVB9_#_XYd/ho$i;r0DncARg!s/l4'ET9V-3>h%3!)AI9*/&o>lnX?E<:FfKE@/8Qi`u`X9,g3_#hd]eH4Y1lN6_]!!<T2('>]^/H[s76N^*d=p&@=EW^amM?B.HU'%P#\c]tTdf\M1li[%d"p>SB+9X8!3s8(W<<Qe7E<L^nN!,RPW!'O3`!"Nli<8WQrWN`7*!Ihr3X&(Y=9W=@G6N^)Q3F,h[0=MQeHP%<p'(^*('Z,j2[2eW=U&UFHNoE5SHc8%^]r0jis,/]#6u+O.gJ3B:Bt;5F9dO*R0Teu^B`0ljTkPd$O@g[1'g>T=pT!OJd@YJWX-<EdKo"Aq[!f?,mcU=:C1P<GmTN<U^=U=cO&\>q[*oB-ON!D<!m@IJI7bOXpW,Tg^<W\$O\-d3=A[lBa]G!Qj^,+a:$r7q$[lE.L\ZQ>RY``NXVfo^^Sm)o*l-<-4N3L=q,Q_NX_rs_[YH3p^RrI/e1G_A.F)!Rguk:dLP[U#nJ<m5n@94H4Q;PZOb@mljsI7-4iNU@1[l!Rh3+Af+@Te'+lr2:D%FUN"N'%aV!_L#8/?r71s,DKG($m_\1uC!tumm6PErCK+k$o`=q>I"r&F!8JGnRM\N9-c4oa_&f!5<<Y]ioRh`UOi"cD1-5K/gC_i'IZ52",qA1.g5o4)KM&3<2dMMWp)]1gWAJg:AY8Ge,qACCn72]kYOVtVGh&6D7.N2/&G8d%k`>\(^'H9+Q@iL:EZ5_L;!ZW[0;B1$'UE%Jtoc5(o7icOhR2s0cllHo`5TXY]PTIO[koUQ\4s+J\PTRX^l6$fa5p0tdQls<in0&bp80N+!Tcq])q][C3<?d#=Y9MdI$6qMTAg<Nb_B\Oq+!aQ+HmGa<g*I%O3$i5aQR0ZupEh77=!i\L[jL;d(ahm&H7,a@gaEU[5:CM"U+"M?"t;M\CFPf'cmf)H2(E8hRju`7!\6/ZBe,`)d4>GP3@o&!U+FnJ$nXasFtKaHi@Ylu9J1oL[k@)%,VN=SOY=a.r\-2`CbVY=gG'<q8hkoP\hWb2.PbKhRkiJL%5UI0Il"SjnMDaQAMfu8fJO="9f7\`_DV9M2`>\7Xu>N',WB*iS2]%Z'KAoKN&\m="Z\n0IlY/%q)UDpF?6]gmlN*_CHJOXkWC4TANZbNj#nSL@6L;Ii'&8I?p:5Ii'/AL@6^JNi]n_RA3d"Wk<UO_C-epemQrToE^I0#pHpu/I7(e<"%5XIMF>`Y&k,ehRRQ(&,"?37X%)SK2+N!`^dnW"91Y19f1?uS@nEXkn4GW3I7hFN$qjMlRS2X6.SOkV\kN6#8kkLDgeK.jDGIZ:!)H0^P>C"2-W"eZ]28c0:f3]Zk#*p3HrA!`'2r7:W`/Uj6<'"FgJoY%F]H:Z%ouq9WE/ap6s#OQi)hX7I9=Zq)HgcW\69,@<a)A(oijjhQ!<?T2-bl@em0Y/G[8Et)I@5d]jD:W@:-?K"^kD>WaPa5:LTu+ojUL%S7:tt6XuHmlXW7kP[s#i4_9dfk@QkhP%Noj4_Kskl"E:pQ>#W!6YW!'nS1U0T5++9:MZkDs(kbQYAFP^?u<Gl&oMK&`,?]8G]1uK.r^5^i,LetQ#Z;696-nN!HVOf\9&F,E-0<H.!:5diH@D.Rs+RN<d1lp&U82<b]t[`M0\917XCnX"FFX*_L*MSJUHF)6%,GU!IeL,_LEe[KR`*67t@Oh$@uuDc%7X$P(N=Y=+e);*JArrj+U!WX+h+=Ee`2$4,9Ga"GgcJcA=?6R>Lp#A;\Nf0T26Tr/>-Eb)J-8R#V-+Arb/t2NOGk#*<_aer`1ZW0.aUHBR<P9p<#M+I%bJoT`dKad+cLT9fnOFdM$R9UN>X,aja^r0h;feXJmpYFHT&M4F=2A=_/?5b>-N*M87^qOhPqfV(g/[\>+CQD4YZG,+2q<i!d432NUO)Q&FirMOP2i2BPP`2P\pWN$r<O/i>_FfXc.>cc;S7'3u%/ZteN(9`Y#!3gUMlEOa%f!7rS_Qu5.Y-]L^S@'$<MREPoH+*4OBXcp0=h)ki9"DgM41_i30"\$o+hX;X'to[B$GM2-s1`lpotYO^m(m>Nj2,0?gV[.2eAP5&cG`GqaMp]h_oG'`^W8RZ]ZE4V\]QnS\'$\Q[`gVQ[EUSR[E^\U[a-nY\Bm7_]$WXf^=#6o_:(g$`mdT0bLKA<dFM=Kf[jB[i7MSmkh0e*n_/0?qqHYV"l,!k&D`Z/*8[FI.Gq>e2W2:-7,cAL;rZQlA)ln9F6*8\K]Wa+QKK@QWTZ,$]]hoMd-=j#jm-mOqs9()&ac+V..4J25juqd=RbGBEq02#N:RqYVt;h<_Y$auhY(g[qtH!C)>L0+3;LVk=8M+WGPh^DR/JK4])GA%h#D6ks8VKe%RFWD@V#OM^]4?7!WUmSKE)8^"pP89#R1J=$j[(D$k<UM#RV%Q%1NdV%1j*[%LijW$kX!_',2)m%i?-%)Aj;9+sJ3U-RU8h-RU8h-RSp$#RC_D#n%%G$P!OR$P!aY%Lrs\'+GB\%1Nsf&J#B_%hTWo(DIPt(D[o-(`4/0+X%sO+X\Wb-RU8h-RU;A^]4rP!S.:+!s'SG!YGG8&HVpM!3ZA'!!33(!<<*"zz"pY;;!<WH+!<E0%!s&E&zz!!!-*!<WN-#7pk:!<WB*"U"u8#6>)4!!!!"!WrQ/&I'C5&j]B''*iM$1),;%YsK\/_9l.iEe9GhU9ZRB;^<-qnDVf:ZU@b=__`/A!!33'!!EH+#QXu3!<<*"!!*-'&Hj73&d:Qu@3QA)JW[2m6;eL%U!Y+S_.%GZ1F*_8g&MN`!<<05!tbMt!5H;Lzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!!!Y?lXg[_rc/4%g9ZE/%@pCR]6tol9Af(X"`UtbaM)q$Kks2CQ"C*$"]O,:b&!5X3Xp9%:Ye'[B?/%!03QK!3D#an%I8#jJS*=7M>_$0&K8MGUZ#:qUlp:Pt.-OoI[$.)qNuj.]!(EF6!!6!BRUPY,T]$9=@P@q+i;AhAVIMfc++E^KR.Vfc&OMlK7M?=#Hm^DspYhS(HCH::D#Udj:bplVGlAHi>K74\=$"Zf,N5bOCDh!)mEojP-g#ZM%#eI*F>BB;1\n)-uJnp4ZQC-rkr7`bR66RIsU7HZkZhEeKn4.VZl0oU&kOT19"=^TCP*MV*3%P=EqK7Ia):@Eth&93e>h_5URD=1<UL<Ct+*XH@#+8_mE&?>[W!Bs5'g"TJJ0:SM3#2Fi).e=%RcrGu^(2;&@%_0gjF`-ShM\8%UAg3-Bo!*5`Oe+UI3Red[F<Z+#K;Mr!)gs`g0rq/9!Vh87'p6&j#-F4R:<:">cCV3qXU[*p^H0bbU#6WX!j8]/[zzzzzzzz!#u1CeA^RZ"tp!qo,0'7dneo!^$:f0d":9V_E#8W5d\>+fOK5FEdDFPg2qgo:3-;uoT\2)rUs:[GB_T8F)t:>S=ZoZ`0Xq=gk`H,7NU3bWI>#sDX=fJ@b]eZ=0Dp'kY&AqWL8.'Pmg^'qd(^D0Ce,6CFT5>iVLWL[?^_`[%hJ1G84ZCS<gJ[.5SFF:<IiDC0;h4[&0Tq/fJN^=P:8gX"*bGqc_-!/S`a4=)_DdI/9Y[WD;g*D;f^UG$.:eY)R1jS<eKYP4O,K><#BJh)VX+`UpP7)D!Am!m[YINI*.YqP<@+KhbOtWG&\2&H&sd^,I>W98]sU<i2%MT_8&Tq!)$#9555dR(S]3S1JC.:f*E)c=uOCe%!X;a5>BkmTZ!\j16MbQau((C_]E#;RO[%q9d[7XVfQ@QQ?e!Stq:oCIm2m+Z`ItVcnaa[,A>qR4[BSYfTaHUB=CML;3.b*ZDQejL`]u:n0/?E7`I"Eh+8>n^Zs&VBoE*F,phgB!%tShQ</Z[,F!Z#O4Zre6U&l[0?P@=@_\?7'"h*_.G+L_'Gu,MJ7:DY@/Be>Z.rP=^9P:8tB),Dn.7>S8MW7Hakj>-]P/rXeg9[=`pP"P2^be/labMGrG*FnaBO@)c2N4&&Y?dmL't<*M&"$S5mhO;OpMt\i@6LEZlq`\BorYUGYB9$?\3"?a5eXpK!Quc7]?42,[K%NB&E#='W+a>RZYNb>c8I(UrqAl-uaN_:7e.T,6plU[L@kW(KkXUls^!8(ZP-R\5i0Q*QY.Qg?4m_k.FYH>KdgZ*iV7@:#e<A]gi03:#P_96]cW\+OMD(0"6d/h*tf'[g=[Sr83jeFR<(Y-D#lG2-e0\?2[$f1J*S9:V6/X5T:S/2k(e;)N:BF=N7-T?5A6n4T5rRrd+MmTOKVF5X690<<<Kqd]:7D6;?rm0HtN<J>0F(9jbBUmh"P=B]FK[A-p&T6Zp\];I0fmM/AESTH.+X_TiN3W0tZ`>e'sC%U*!*[Q;TrkD^e[ndT`gcnI.)],LY%rQ9$DW\=tm&/<9$$l6nIf(;N?-LP/$)oJRPEiEeY"fX*10b`Fc_(<&a8c2?zzzzzz!!!!Y!&dmtpO>;PWJ8:>:@YKVS#F*kFo.8MYM]2jhH:@c2i>E)Inn&/IoEn<W_8D::%39iH1I$I;Jo6MlC=>aHHKLLYIB>rCM0RD\3G&scA/_!O-P2J@QCSUP!?L\+/-WL.ET+YjX7*mkH!X`g/$Mj2HDTUVocgE,CLXl;lI*_<f-%$"l@\9]>ILgmHUk5duXB`5C6DL[(A.MZm0.qE&=XG<K.F+K'@lZ%]$UTI>lWTEfX:\R`]3%maZLY;-d&%''Z\PK1kIi6o,]1]8$8b[^/r2e#/O%3pP<ToHs@'V;?Q5>iVd7FE1D:d5:K[TcQj5B:!MoWbjb$jg14d;hCnq6BZ(YEdUD(9VlNNpGXoZ4*]@tlfi_BZ?k`Y`C^RuQRV#UUWhb)dWO)r_Mh)F5Oskk<Ll4Meuc$M$)p^,D8l$#H]pZG_0ZQh;t<pJ-pepG8;LPa+VrV>l^)GF,8XQ-G?sMp[%ClR'".UCc&mE\aM0oKB=V_XA7h05lWl"_Pa+A'b>NF&dtJZZPr1`9kWH2r>=h:?Y3)Lq-`]nHJJN+3X+*^qCM@p<=uQ)=Vd@$H;l6(]ochC=Nhj!mO-*d%rB@BalAG8N+^&"s_p(j.RI%E,3%lo<mD:OE`bm<le;WHC),*tfE]02"HN#!E&rM034FBgTa[946a7_7f!:SSlI'lFGo-Y=JQ)Is:]VAEqBsfqFqoq"c17#K8<6iq9j^RWu2]54<:V*o<d9KS[\>'!'%]#llR0jhCOl:9p./pO76bfto<UR"qCH3`lh6aBZgCAtue"9E&gV[Rg14+oUETF,J6J=S'e7R:E(C^r0G?$G'Rf<@BEk8op;jpLBMj.+G#d3R_W8'mH1Y(a/Edpq7g=r3'DQUlKcrIaRFReM#j?W"#-D>2=`tiR%8hQSaeX+A='c87n@XGlLY,/h_B/ae2.91DR$?Gq&gMT+ZN4MuWMs<n'I'lA6b'=HbSu"dQ[ZoXSP[j4"&`]ZYFiGp7l<7]anSu+[h!7Phe)MiU?L-3tW&dqHPW0ug:GLauRoS>#k0hITjao!fAkr(4Gu"@UX/0-leOaqefZUu^\@o>:la5I@I<!]#m4CM6gU08tNkB[@7-1N$4!f#Z)0IDbPTqgac`BlFo*Kh<+_*GL[%A)d.)'\amZK][H_t((iuI$I]9dE=HBin\<cmIWc$;*W!JoL`gJ,SFV3&*2F`=HS^+cM".)3u;MaZ#cY7le`,mcP&@E%3&EW@k?zzzzzz!!!!YeA^hah6u4[ggmR4WbY4Kqe&f6";eKF6RYi]VJ[37bPqQ7\":$qp>ISF$!2TqrY=l"Auk=olZ2NC(Y##11nNRJCAf[=2rt`@ne_%'9A8"lPOg<VPFY90aHpp?K((n[Pkp&=8]I9Gaf)CYAVk-0p>r,Qic6lUe\(H8qhp^2Kf,c0H7GUnX_m6^WS21V;l(DkNsmGWp7`X[cedStQ$[e!;NoP:-h,6)43ZjNG[%`n[g!ngbM?0E<O[nNI9j%3'[.>*%kN%)GtgMd\s31t:$XEf^)]Ujrq\Np[<u^^i/`qE\sV5$HjOAnpCXN^XJ32R\e=r,pNfC!al[>).G`UHBr15aEc:=hpK+cjk1o(dp-Z([r-Rac`@"Qk=X_aNk1b7r/F.4Ao/3eX\uC$KS`HQr)cmiQ\of;JlceS#FQq;4Q+Up^/EZ]=Pcg4(50D@4Q\e_4SbL\o38;U,2j!75TdNTSI>p%U[>l0J.fj^;'5qG2jX\SEhU?G&*53^nXt:@00\BKEh0iVi+gid\26A'f8NCmllcL2qenEfuC4't.^XV"SD/Go,Sc8[ciPV[KT>[`_LI][IX6$[Zg4#p^Z.89O'mR`PS0_2orCQ\SXa!=-18j0O5H*2.P[`((O8o>p+EL;!V(T>tVHrE2A+IdNPcf+,m%8QqgO>B)*Q;El?$,GseQUAl[;q`&H7haImQJ%CgA(u6a[%DFFjlj%Z(-1#b3c<ZD6Bo6FY>C'G+W`c>%tuNa2L51[gSM(Kud0,U:Roq:*6SCbnE-Bdb<R4jYkqs7s/lMajHRB;3^nKBrgAq\=AUdQIXitqi^F;,^?tmc6DZm[b?"geU,J>`9/b,\s>CT_0@c5Prel\^Z<tWVP:c<^80o?B]J;SS^-H1KQ9#_q,CV+l(%P6aA-4]>7Z-D.aj:0iu(/J\mH\r;9\4dF-E)YGu.+UUu)G*qP]Zam+cBb\"Kn(9.b3Nf;0q)j#n$'-FlY.O0N195%_C0H?R?l];a,/Jm9Gr$nfWVoetr50!)h?>d[>l**Q"@U0k4ZI_p''#gNlO1.kE,igP7`20PcC8oggoG#<-4?-RFCInVd/a^X@h\=ZdGJkDW<<p7;Rq0<p$mc*Mu29:ROK1062[4Vt1GkL.>n,T&$+92BAzzzzz!!!!'(Na7)$O(g<eTm739a0ETIdB9LeCR:;<@96?\P>lA:%?cJ-)'Vt;>"%"WQU&9WmU@s:7qJq.rO@O=\2VgOM+\[3%>DCS+5"1gMY27C%.#[!6FK<*HBWWT%)5,f:EA29&t6`E7o%'Ek8K`WE'_iY,#,.=)g<Vn&A[D*\VN[X_V:;6ENdK8PM^qRHVAhgitqEN@hb?(#_NZge*H%F4Z:q&Y-T&YCDV6A!P)#?MlOfl04@WpG?J2<1b3k4BZL0k8,No(s<9t(.EP:c.0<U0'U`lZ@f!6a2,WGAaqu#<qeNd\udHgI!ZZAL.aIIgm+sJ#k=Oo_jB2W<tP@"MqpR(6G'hq7PFP$\'Y\7XN4f<WT/$m=7p(R:>W?-:-K8P[!)>mCtr.4r])G?U>sc"VNdFT2m3<^F?OlI>0eF-9)6S4:95[[de%r>kk&EAXa&OeH!M^X-M\W=n#8CH1Q^A\O3>qu`cLlRg_,K;`^D%!MTFcEASI=:S\8^F\n8>$`\4_=CU`e8N"q:'Yk0/0K1]=M17#SL.6_6'[]oX`h:q$C@9GJUc(q6Rh\l#/_g06o3;0KZ126=I2NuT1^9AP[eeKF+c/8DVLYJp*`I/=@2]di]g#q_efN)&jT0>$4$CiIL-e68C97_38S1Q=(/eOpL+$to`NSTuT(oY.gfq*%,ip_.lV[Bfo8o%PR36=AI^snA*L6`'bj>!cN#ZYo@qr'Ka+10_7X-f2k(9ZfKP,V=le%&3;q$8pYhOW_O7Uj7/',\_fMktVq:IQ!=*+\rkH8d>:QMmol7E/(UROA?YoWESO)<J36$o%?1ok`ed`fEc5RaP).o24\KM0s.n8haIp6K[P_rr$Nd>,tcErks:X3OuK)\[A!!C2odOOm&&gQV38'd$&Be=i;*Y)'bV0E+1TT$S%HBl)uS$C"9'0PbBME-`SW!=YmSS^3\Ym_P4+%<88tRK@VYqIh'-$*BpB<XBs8q:nr]RX%l`9PtJLMDl+,u7AhaHYFcjhMgX8BlKcKkk"Xg&5tT%p7Hi>;d3cli/#k$kr(&CcqFJV]VT.b!f+FHt-c00C1EFe9?VI];d9/o9C#5/hkr8!n_^sWEPI7jp]NtHk.nkX]/lb,6?&sbL,0smREH_+lGg!&ChcV<3;Cc$\f1T@1b3giQ.At"a;^PV*mL'\<8*"Zmmk$Nro:"slpc`=D9\Ra3p9aAa(VR^e+!`aPSCG'YY$(@..ZWE.j=aq'f_h2NF/^(C;b?6BEdWqMZ]h!8gls>"-VbC=RuWiOe!'$_kp/n0]/PCX=3+%qku-P[:/U55f@e)tAhc0IpQ!h486'A>f1kP&[)A^)EL]tco9O`te[5cBXINU*e'PV'Y;9`7,rDG7WbF<AC1kp5fXXfC]5Gp$V:AV(q0K7<WUO9Jd#o0,P*Aq4ME&dpFkJh;_83MX^]6-7zzzzz!!!!@+FI1XVb2(X_*TbKpa)jFA`22=pO;T*?:JYp$8k"R$bOPR%56^8T/k[9/64PEF\f-k]Vjmm>gh`WlS.q0/*m"3W;Z%Nc?!p<En0LKQ7d6*;T2_2MkauUo%''5C!'4QY+0T]8uQjRfdXQm/e%,aG>fMC."dtI(K0a<";`#eEu:mU=^=c7>WfPU.)4_R)i&E<k'AXti<W&/)K#pXY80`:kh5^pr;IF/S,;j+kPRIhF1A9uN%;MB\o_[]W_r.\DhmC3;d5fsX\YoVG_]g/D8(>r!"@g%e=S,_&W3tB<ikT0Mj%uQ8&#Lda_1'P@>^`D=-j\h"VooAq&-:&Vjj;s=oA6sWqgo(f2A-'P]cAV7q!:e>)cZX(g&cp-KdB\nSOCsbDDD%D=$Cn.H9\E>f0i.i=0:sn`3:.]d)CC\oh/qhCl=Edeo##40+B@Uj+Nl!)7Naf63F=H-<4q#lMARri1G4Ds5Q8(&n92HT*aeD=4Os=#B3j\8e#fe(<E=i:t%WJ(0?;H@AG-^)>'USF@cXcL9ifmJU#VDOZO_/d-f+5s8,VSNI<o5rS&ZN*9N1M_nWh="JV01niO-9OB/)cd9].96o-)H"/6$*7[T`#qu162'c(+R9`S>E&nW^6K4JpO-['FO`i0+e&Jc$>0//)<>tTZe&eE:&$rFP85c9FZ[FQ[Eg32*92k.T%D&Ys)'-J?@u?dbH!Z]48lFTWoAX[n>2iU%`P+/!gj>La+J,rdh)fc8:*/]saRLgpoZqj9Fa9@be;S[qMc3s=%$+ZQZ;u#1]<n\/p8Po%o,#p0>(gB'/dTS[3'CCAAj\(fX`;qB/h8fZKfJ`g4AS^RDW`]g1<WeM[>b)&<0%:VT%r:rS?0F/;gDL71,t0jFg"/]ofaE\"QO4YD/aI,X`[;,WmfPIXJ+.TO]u6D\D55nAE3J_CZ;Y3<rW.=B48;ab+2a3&?>uNY8n*SHA,D\dWj(QT2Vhl@TRa<o*JO*M0/@II,abPcS^.$B/`[EduKtU@\pu!(sH.6YfPD'\=0Bt03Lkd9sq0=BAM.Z?WoqBD<:0Te25TQdSZ7:iPo&q\^07#i\'7dio2mLZKkM`qR-1@Q`&3?kO:BQb98Hmrn=E-'QJtXXIjf)J#^S",ks!]Le$4f9Cip]7f$J6k\c2SfA3s53'X*ZYHYZrR^10mo\`R?])"AQrrB)4qnN2n<Ib&Lzzzzz4;l;5:)>3\rB"3Sr`X>T]Z';=Y2.9tc.QA%!9m2K0?Z#D2H0VU[_M_"pmToX`URfRqp#eq7"$XU@:aIN+CT?;gnbbBhO_VA@5Io`jS_<1YjFPs.kA6TCJ)fqX:sJYZ5+5/9D_qM7McjTioiBZ[HVV/,1>BE>])W=j?A$3r+\$a8s<u":2<Cr]r%l/WD\]8;N0Ela5N7i94#Vul`9p;hOg=JWF)R^o-EGkSMdurG,l:sM8AtV&*U-dc+_Wt/gB=Nik4PQ:\>d!I>*lZ2</6D]let(7i.ShX4U?C'^J\$<.oWsk)7[tT>bI1@s<jAKmIZ3<+!;QH9Ht2buR;SPa;I\nF'&1mOnZ^H]OL^H?qFq[G]o&JPr[JpK.@p/Uo$=X#XT.VCL`N93#/bMY=Hnf.4IJelPjgCTa+jB&P&qMQOEa&rVZ^*=lVW>3bL/YYq!9XRdfBSaj4,ni$3mf*X4&3_iktEKo%VSK#mqjs]>^[6!\QVbW_#ED:R8lJE:a1RbAWFlt_a\"b5K!-a+1_matVXOiuV$Iicb&%srkVe#X8a2jgTWCQM-p+@h"I868+f:&CS8ufDMVFeHG*a8*p]2:-8HcnX5b>Y0M>sdCil-tY3;g_XZ\;(sBg:l!8\eDj6QBnb$^Fk3fi86?8<_oFZnMY<#;>c5/"P6&2q`,_qrqbDnR6%],mM%*=6,l&:l.$L*5A;;5mrN)^Qe+(b'pVs%Tbeen/K8W<Y.%*!o@Iu;_[.f.pgTTP/H5]CnC+V\:B%VHB6a9IT/?oP-JE*CY%oVb6gcdGe(^WT>ZBmHSfC>qR[Dm\X=Id5e7cju=%8p]V%imrQ_BM385kG:RZ(;`hZSi"GC$fP_5Z/KFNE=@<fhfd(].+t/F&2U04JQJ?p,"q-rS48Wg%NrWq-n_/qq2t^U-Ws</mEV?:E[lodI!eb>!B0V5I+GY7o\o8EO^N/?8W5h0I/=^0f]REoX$f__8PVRI6?+]r?&iHn_(u9BbG=rr<\PCi%E$bfSqc2]M$cG/)6nLo*96!8XF-e4Rl$r0"cIa/&&$!3O$8BrB.QEEp"uM+U[pWOJcW>MoNVeGRMXLhEcbB?ZKS8blSs(t[WDdJVC*fJ?hl>&SOm[/U-e8+W2[=m5kcl[MimrlCGsir%_b!1$I^zzzzz!!#-,C0l?=qM(I7[e4(,mm9S=*(_SK;1+gG_c]][*hb3S7UAeR\CIAo4]sjJA!4L1I-p7LUYYE2a7C1]*mVmhl<Dl7l-@i)/u57+.<b204ul6U(!eH-/G?-F?8kVchLtn$aGo`Nf,ir_SrU1W:V'79VX)mdoPt\Lm,LhV:+B";P)>/j7TT>CG:RF8e*<2WY>fbL*Q62bdC3Iar+(MdZ!QjPNjkA(S.TiQ%Wsj#LO@s+*Y&LKVO7=uOPDZn(?20m3_`B;]QNI8mZQ\5]*Q\4(O;IaToH=Sl<IDRN)K"JZ@9]*p0Q1Rg3AKU1_OrlPcee9`cGpV*ooZD\hJn/1F[U:A;2P3,kZ(N0=CS?\#>cWG?X.6[.UO9ro0GL)("%T['NPr_D=nXC7d=\=Tpdlc2*nfCL%lpHriO4jD3O8qeQedJ+#+4F,V2$;1B5IpK?7#Y$Z*NhoC`%47FjH\bU1%QdAmG?&<9!q.0#Zq+Ii4W05`%e+f0&i^=jB\ADjY`g(=Rf[jCDkZ"Mu^7"MSl$_B@8Q-qOnnT*rWU:L'o*:+@or.j<Kjn`8XmJ,JH;^R:g97bN*r"ePpq*A$-$?`cfATqL3cTSU-,Q/f]r"FG[38&CgCJLGkgnclV+S!j93kO\4-:u"o]CjB(6i^>26s$Bj[Pm<PCF:E0&HcL.@+q_OuE3&%l9DbXX0#]1)[Ime^is+]=X<XR[^9[UJK``ldB*=.)O]&.+4!3+I$>ui3YQ3Cb9Z!+`1pf;l9enN)K"*ABLoPY?#`!gX=f\@tYu0($&6KZefTC4,?3\jU;lHdiTsnpV0V-QSOoepp[G`\Cp3pQ@BoZ)h/#hNG.RW>[mRV'32MRfY-",HFW::h*#niXk>abFfufGQWb0@Y(j2*)DF`&S9CEg##APX/m$Qpm+&kLPbS>4U>9"<Rc,"0T8>;@i%ME?Ws;Bu>i=\-^8>qAk$KIe7!Q5C*LC@%f?sD2I4;W(_\pXXO%7<D`li[VJ,L<,$VGD_PZ3pnY>'>MPN1TB%J?!%$]/'<PT<kR>nZF0=t8m=:r[`jYg`"Sm,^P':R@uIT(N#GXh-=R:P)K6qBFUBPcpo!NkXGPEn@p?6;Lr+[3)WaM_-fDQ`8,W@'cn[;>maj!!sr*zzzzzz"V9ln3S<c#RYb`Rnh@V/T<u0WrO=YCO-cPmYB,i<XQ)b]l%K98c;0e<9YFWJ]8U=(?CLVikN,`[rAqN'hm,g,i[Q#Z8uo9mmS!4m7r@#1GPbo$S'Om9?@La<i1BAMf5J4(Yar/_Dd&+mX)-kK<+WsR*688GS6R-N-)3Z2q?Dc+4/FC*^2*^9rCn4'lBP3-0/=\n7TT3F8ZkePlmJBrqJ6*20;2GjHZ:Q_)KPE/d$'^T\aa3G1MGqTE<WG;_Fq\:qG4l2(b5sGCrKbJMl>pgY1)WM91^M/*bahQg6LB3Q#AE[9]Gr@Up]o/(:Zru-XPid2u]8qTt2ooP,h36iu6G4/K.N5BrlY',432-kiOSmGt9ceF%S;.I?K'mqT=$4+&T8qN)RROB't'26<1)Me.RE!8il4>XK*M6bYts0SNH-+[XupA@o>oJHSmRdXM,$?i?dL)(cL[B22SY6h-SI&QTi!CO4qpMAoe]T<F.HKS^O7^C<Db*8[Y^US^acFX)=b*9to:=rmLE1$][.trrATc?fbn3o_p?:S?cRti0T:,DnB;Y8qkN*NeldHdr(@D\Mh!=/30l3\FJV7<]cMoJ!dE$lYG$CNfor?Qu6)If2VVZ?#l-e;-@_%gYG`@0&%?Yj7U6@fbAV;`<fGe\o-eUH>.N1RnYIk/k^M4@7h*+U8J-h"M5<-<*6n0.pf57P]AU]>0X$hdas@Pm`SpJX,4kp`ECZqUH-U6q+@HQV"O7jMA5(dVQeI_]$"E'FjjidGiQU\pQsHuq@^?PXVqm`U6S?17OqQ7im4*1Sj)^.G.1GO7Ia-Cj"I["0332p!/"g1OT,)6QA+/NXH]jQcBDL3KUdM.b?n?5K9CImX>`=ANfCNaF#E!+A[3ANm\k"#/Ho%CSEEY;\0iXF'e2g_WgOU-hqP`YFOA7^FSRmqI;;X<4l2duX)5V_5H3aKFDb(:>,#31\\>5[4f!u./>oL`Mi-JG./;ShRr1BoA?m#VVcMJbk":T%l.;8"BSYol]ff$](N83ub.+NI`,=ntkbR40OG\@na0_^`G+UR0V'u<`4tk[GClZ`57'4(U#o^0CqdE`1EqoSAei)FIm381A07$tsTA-b9S@u=E=*F6#btb*'o[5JRf@".c97l9XF.u/JA^[-t\&HN<I2tk\DrY>[NXK%fe-pM8gA;UW;mqqL-#[bZSS^"2fMs]Wan7RKY?0&+d2^#nWm3HcX^sDc'Y@T-/@JTdT/06>Kj%)iLF0=uiI]qYP9/stmda7\DJCY?J$VjhqV6uG`9k3H`*k3u1t#@&Vc3?Omn<5X/6c*qRc>J8E8-_,gG[g`V"+*H!!Cmozzzzzz"3$PGdE:LPZ.7Ibgs_NHqbq9`Q\p/bDS<B[O1_Z+Eup4io9DA!nVbkOLN0YS<U-I9ELf85Bb,Am1iJQDI&YVAIkT;>goIFq8TBgL?N1"3h,N`%-Li%cGq&N:j^J3>cHu?N']S.!m`U5N@j,D69$^6hk4OB)`2eI<F);;b:6e8ap@b51DVf^5Uu/HK.sn14Nn%9*h]>II*1chiF_p>b9maWu?0LK6)Qe^u;M3+OCT3j\E11LE0OA(<=.r8/P`8;?KVr"G8s;i]GI(2.KI'NlBgHl:D+66bgO4ddM=aRi;]?[FS=?muWtdKY&UHn1_l]f-VN&V$%Z*B>RZ$.LFS0Fe]V7Pkob6L9;f1K.rWIIPf7WjjqJ/jOo*^`<]?=sC?Yo(_?Fo\$.Gcu<j%]NRmFSSFV(#!H8[g-3>C:R3Rq-qQ:Np(5f7:\KqH)qbYSWG=jQ\[_\WTqT0Cl,,$g;3@_Jl"Zima_KS7K/epnhb,'u[C3^8Z!23%B8id[RG&S<Y$dVY-+1i0Kq;\8CLheD\;-`X?;,RDnNON)O"XUIEr-UK@naj3h5fPHgCm6T"(7<F'[RWoYYpc_\fj2(D8b/"CJ<HOI?*=1=Zs;B=1Th&_BM"Y?u-SDuu#QrBPI-rXDLHkIbu8hk@M_Y$&Y16e#4ZJR2Qd\T"T,>O]Y;X>\fG-J?K)KFdj]e9##A$PR2Vq4*iA^0so*qXKDgUMXZF]SIARFub$g\c;Deh;E]H5qGBK'X-=:2iu\SqY-cCMdYXeMZFNpET?n3'pUm)Gj^<Rn>D?>A`S2q^ZU*Ddd?VRaUK8Q#9rI;d:RF.$^c1SGJj';YTS?7^p>Qn$e)#4tMhdJ6JI.zzzzzz!!!&9d<TFmqUW'FeMU6YBM+gd51mtjcTkq/jqDI+Sf6UVY$74nF11Y)/1^$9:Z&U`q+dF?rOn94^r)WP\ou?$k/PQlY*A?glT8=135U,/ZS#-E"-Bb!`ElQbhbnR!.*JK-I(U`:e*MM%:=Tib3@4'Bi9kqNF'DWoltK[-8a#b"glF,hN*L\"<N&j"#>V9n5PoCR2jfK0,j.[#e*!WD,^fA5X*c`NJ+*f/``q"q;5]MZ%^g(LUu]:';Su"BqOV*d(#[5Pm7s2$<R"!Ri1uK2=^6?Njh9-'^.h/C`V/r;=uL^Hl7UQ"a27CM)H8SS[4'OQ15jV=d%^+.G';Et6McA6='G.C9m#bl$FUGW20<B+^8>-7!&n7tV->U59:=+BG'fsplG\j6.*DCAT=3O%U?<\4`nDn!WDBrp$VmiM>j\)YbqG*AQCR_bNi*aIBpQ-Z8qN"7(QVJ.>5(JF:i#D9UFinEFKkXp+-E_6UMj<kX5!(:r<=XGpG;4qor;tb3Bs20AX,6^k.%L6$B&K40Q"QlC_lQq19u,I-UZ#?lM/t4I[rUo24JgOBP+_#6R?KS\$&fC?85\B4Hsh%PnoNh>[QfGK-t;`Vq2dXb.Ulm5q_&'<jm-nADChL-fBiGG+G*cdU*uAAKqS"@rZ]E+WVf^2oq(`j652cBY(3ec1Cc<A[]S(e?jER[T)7]eJ_>39s<A,&qoMp<9colE-b)>`h&/)>M[<rQVSGeZ_?c43cK#3;7:K-k\pMOMq!:H3,_,ZZZ_VZjM"NjS2'YIXi50]l1ZF^cVUcF9;XiL8GcUklW#HOGY$0WBsc^H_TuT*r4NpGee2482>?n>,2YFuD5^Ule$c]:VacnM@0F(c\K/Z6<N>&Q^=.VggRcsd\pU+UY:,ok%>7OXzzzzzzzq9edY>J"P%DL5@X;92U1jfW_)`D&A3r_C=*+!VDUP&ZZ-B$.6]RE!D1j!_R;NF^.@06%en/92G1)YEj'af"m-q)%up.C#@pD.>LNVorGrpZ&<LE=EXTEpnt!]@SB-S!RaK[adrE]g%miDb>5<QEfpX?ZH'@BifbbT\Q<^5CqM]cM(A^NH[6cX3^@_k]Ud41ic_fF`X:`ZM\I>nniA;Q/C<U\"B(SYe?Te9*aQ=:Z,)GKU/.='udURo$350(A4M!STWC^&`k9/p4cbrd`X.LHVm/ml$aOuS<B6'4]-#nkkeRApFSJg.;UGG%7UYD8hZUg^@F/u0X.jkXW+;6YgTr'GkH#KR+n)?Y$Sth[ri_&RVp[r23LU=UW'UKr>_ARhdg>uj)'50dVhm_3suD=b/n:0hdc46C=lC[.TGdZoTWR@4V)\P1R"@!mbj3DB4cIt7okBC^?NbC(Z86,.k+c9.!sEc4J^ka=%V\igR!)/)L/9hTe!.V/eO._;gK;h95^ll$Z.jRf>H9"bg(77T;Y^ej\Dop0;D=kG`%Y[gt0<;E@0AEqV`/+][QF8*[W-3!9a61J*`o$S/5.I4I/'A.=62YB,XC-HW]skK_R\m3#39F&UXNX,Q=M0n?oZ^V`.2sdTT'k=&1Fq2/Xp*]DA(6=XS&e+"^N/Pah(:c*N#_k5"%q+]H"X.*>D??aHd_4L*g4[_=N?.@GoT+QXG>;Gl\)Hg?]FRqP:K'tE_:QPAAY8lCANBe<S#\T@6oR2]o9*T-W'Qb.5UZufR5-D(Cr^D*b.,qJk:d8kAJ=,.!V(\u<q8ddW=$":S2S$&9i/60];/upHPoZ\#-4rZ@rR[sFf,c=O'C5o-ZrZZa"E_*CC-8R)`P.8$9[<,nbUo,"M0]N*4=W*dfPI&D9j0Noq*>e,n($S0O,hHe[QP0[L\hc:r$QjLubbVaa,b1=kE\Vt"j3u&('PFl?m6YR[QQKbtf1S\[QumDPJe=8>-rZ%gV8=rl>:_q:l(uYbVgY.pTl$fo/\+iLkO3UJb%RfCf^T^MQFiXYC;J'7/E;D2=b59g2YV5s.CA=!l+b3?p#FfU%heNSj)"6dPcS\8WcT[A,+!5+IB;eC[(!?7$YrpcV+-nNKHdcp,J:C\Lt&qSIV08J4,pk<Al#93o#L\oic5LH&-)\1zzzzzzz!!!Kc4t9F-=q[`6$D\rSPU;WY:U-hAli;?sk2Gs=++30iKUT0UQEAQ#Y(M00EJMrAn1,Kug<JQPVFo9Yl*#iQpZXnR8F!pE`7Yg`E/`f:1o1tpEGJP*M&P2RkJ_dTTl$^b2X"EZIk3^Ycg58J6K5[>;kXQ(N@F@f1tkaZHa"B%@.JF.e3(\Z;i5m9RaAXOSt>>.UN:UN.9]u(gK3M,n*&0:q]nZ2!7C[sjXb:=1LG;A&933G:LEOPV6+hXE.(h@@G\VEn8PrK^:!COb598&Y&<*Vk5MhNEq6lr<V"a*4bq#%@[57$=dGRl3q98G>Z+:FK.1s-VX:jVkd?,]>bsocI`_4<*E-P;Wa$j,\:;%!^[>iOCA#k*T3'`=Kq5Yj0Y0ATnc!ITEOt_Lq2ER&lUNTTEK!qtY"QB*#u5Q<37WZGS0(^@],K[sQs3@-\#8kV^SZtAjujE%0(#e1ip0*@g%<2ZnjXo5V(D8FI91)Z=2q@s'$!3=+MC+TPq%6"SI1]?j3nBm/S2i,N+B4qH!@9(hGj(rbOR:H9<A(Bgt*!_a,t,K>j'W/p/=ld8L?[M.iN7t-[Sb+I6&fU?d/1ThhtrZV5tjBhsEJ,cDIEj5F:/)OGp"^(oH'H'X_k9/&D(-T?K:EX%VNUA]N&uRVdMt3L:4/CLFBg3t!NWRf<@G9<Nch/QnE2h-Q%=bhbtjYO#<339rr*58VP'D=*C=g[S8me+npJ]lR1#p&0Te,a[_-cmD4:MSrO-6Z'890"WCihhsH7V]a+>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz5QBC~>
+endstream
+endobj
+13 0 obj
+<<
+/BitsPerComponent 8
+/ColorSpace /DeviceRGB
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Height 76
+/Subtype /Image
+/Type /XObject
+/Width 206
+/Length 16512
+>>
+stream
+Gb"/LB9XB9QKF)r?f([[bcLHngSugn9+hm.84!Rn!jrs$5U/Nb+Ra_M.X<ZY&g.a;L;o&6mcg;`F2mR7flLcORGHON4Yo1+qeQ4Jmh]soT;&>2+e4F%l^h1#+sUG_]ZBidGKkL'#%NiP.?cM9P;4SN1+ADB.?cM9P;4SN1+ADB.?cM9P;5`e)GNt%N`N3WO+Jpic$/`^6s4a<^+h(#EZ6GY/0ldGeS;d(%gX$]#*he\:f*7?QcDsVSIH#;it"W`<5,CbSs8,..5!7(l#]Tg)IUQq:uOXZ:Jjtd77@ANO3.<S%B;lar&+TCSs8+_+cI"o&VL-<ckK:]AI=Ab,*?N0H"PBo4Y'U:S24eQBk]"U&=$*Y:rl&^a/"+?,r[cLan,a*M%,Zj'FKPMVXP<;%/SIi2@"k#X4:BS<X*RHr32@b3=3#`\O.O2#is@QmdBL3M\bF;k6#G&dn#HR=g=\J4qaQ/FfG!@-=p(m,Cg+D6llBMC1(FWb*4>CFPIpiL8Aa'i%"jV5CDIPL:2qjr*N=@f262(VusA5M;sIs;9"*4q_I=3G>e8:(P*2E63D\lDKe2aYH=q'YK.>dfcUK66?RnD:nRGTW%S.0W<K.r0o`tjEm_sTcrqcPEfmg":uj<rcPW0cQ*^YnV4)_@jN.A/nfCMK5Bc/sdNROi(pP!iW,GPs>@"[t'!!6aAZmtgBLPdHX+qDd.3O/5QUlX9:tWSP:N`=Sn@tcpKQi!qP.>B,1>[VWD1Dc-7Elt,P4k[(I_Qt".,?$6M`[N7c"Nld^)e$W:AaKF6krY$,c'[(bTKGF2hElK,E68s<]D"3=rC)JN'UX=^^:80&Aub#-Jef?2_@'.C"f$kkQpiU2$+>C?5U4Efg-R,oB7i6B1t2HSNL&hS"G,1&BoBH'gec6Y<[7IDT^pWPa@_HUT1>Oa[$>q8KP+\QN\=um_04+;Lj`dNDq0C)SR9?Xs7?'O)UY3HQ"3>809,hWYBP&ES\kSgat)];+>0#r84/X3W@C_+BuC4i[o!X0GSm:I09`VE_qaEIluuJag1hpY;kQ>$t2JU,>BHlPMJnhPrqYc5<F&#h;e$)<`Yprh#_LWb;p#"ZCl54:!Egtc?Kq=J5&asPjMTkBf?A_Wu)Ee+`.?Z=Xk)&37/)GBth4`UI:@:R5[__'>VOjPZr[(3fE`aEe$Vn,kGomJ$QG(ZB3B1W^#XT,4l7`Z3?uL2RL"](-F/'mU@sLkTfAFja)6!#[P8Sn9[T;9L`3oONj*ADSR!2'NEbKm9I1-2b6V632;A(:l`"_Oe]YPC/NofVP963!as^QO1QX)*/Frf/mUMdqK2?5ks=[PId.a9JZ7,QgPbKpTcALc<$Q6K52CE4[j#@/1nZ@'>$?FoO;k-W^-^T<>C&ua:.(T6bEmEsG8lN2g_Zn")rGeu^QJktb7+gdl;B)ehGd+O$+Inh)u#V:1P"^ZQVj\+]1^S/.Rd2b@!9F[e;r#&Uj@icJ0f<^VG3POHgWod!pjI5#5XRo!fqhFBk]+6Rlu*VH4sJ]WN"!KZ%+Qn(*.+fmo1^.3jquJ4a7b1^%^A09:")XeZir7Q=]<Ian?Pg%*o2#(>KKcVGaD$CY'%,%tiZ)b]r#fqsRcZ_i.!J4'aKWAqHT\=se!%i(\fqFqitre$(&cP\G1!eDo@Vc"I>JUmf`*lC4$cjs&$O;Rfl6\`E@@N#De+#(lq>K&=57T`I-H;&CX(PL@,,L)CO.m+H3`JUmh567<P"]hMVj`qFU+@lTHE"T6&V`,hU\`mR!_1;VDK8#Sri(E1Nr:$atk96GA7RASkaqsRd-_!D9Z7%%f\AS8>O0)82^OTD>GpZG1/Pd#6sX(Gc_j-/THKapsd6QGK0E_UtWNZb>lMFnj;o#L+=oAipQAee]#Ck1++H]g]]Vr4J-4\X]q\q%mC6l7.eNgr_Q:[T%_AMM@pS;*)K6$4s%"<IUWRKk$';h6[+/o`re6c2t^g^+ODLZcmL'9,J<V/]EiB$@J_XgeP$bJgbC4mp0=gnB\3[j<R*67bX-X4:mB.^>,@#0,qr=Na+fGe$Rd2JC?SEQZGhF9^)41ZV,h;elA.K.%FL<7Qq-$ERF71$Q&FU.PZdkR;bT81M:r?_sX0LJDb9a=esX-$/\LMFrb'_2nb/WC/>fjVb/0Q<r<B;Ig$&.`u!725!r#Y`eoH[&6<mY!rG>e10^F-[Q[I_o<OY8*2sXP2j[QRVu-S*C@1nR<_CF8f7?cr5QDY[4GkOj0[T/7/Ls?fFQ5%GJR"ZCemWfE?ii.d.LpRU?+XG3#mZi"st^"nn?-(D"G+a,PJd;NG5<sC$68haso/2@faSsN-Q:^_F2@t^hb3IjT*M<eN0"#TTS"9'crtK's#rcW1$@CefmZJ.8l(h.KT%>'NklT5Y,aphP!r;jJu7Y7>[SBR`bOJLVWh5W\-GM;6beiUA<O*ZMZW#Cg$kc.5"e\;s!,l$3CJ_-RZA/g'0bp`L>.P9NFFR[7ThKWD?P(f-Z.jZMF=7)\QTp;RKJr:e/=r-:9e8/_V8@QZ;.S=^Y#<&#85YJ2*I%!ANjCd@kFT6,3\42Ke<7R[P-7bMtVCT9kBMOaOji%OV/^"kHe;PGp1(;dHu5U2Zf*8etHmbc<4bD6BAWdIsN7^I4Wk'/V_T)MNKKQ+?`^FkIJYW@D(J=14p5o`!:OHh)=8'h-RlVMAnYk8.h#.F??gbF;^7ZD]m8?G:$?[Jlj$h#LrAg@CZ^`V4Mn%npiRPk#mZDa)Vg)-T/gS^WAnrLjC-F#BM'(.P?TaeI3EV@lI9)[s<E?@"%5M6Lee+2>AW%af(A=kHQj#C'TP^YB/hh#@sVb?+Y93Q$sTVJQ\2O7\)f&W$'"=c%Mj[XfXL*OkN,kqU?^Y&FTT"#0#[4>Q9Sn`gDn2+@9d*kQt[0L2U')`#t!(O!P5o5"^p[RH]JUY\.2hmTcL[AhuopMBjuNkm$8MnB;e])Y#L<tl2ACeoiQYD2FK'CNPRf:G\*@,/H%1Oa/ZinrPGFX?!-P].[X&"iG4pLXIS>(S-NhVlVIkAo3"D:(_ok5VG5E2=rQRCi$3gj7(CH8+Bmq!'[8gm^LX(>n)WYGa"+9*OKA:Xj+db72%1B![t.XB=G'3m"d?ZGj]AcGBdR>FZI2G3j.+p-e@"Jq3uc%,?MH19(2V397f1:WfjNG3\G\KH%eY3fRpJjk(]HNj!C<p^![h5!:?bZ=o9FXl/h7e"5h:$Qo)NMHf9_frYY3Ps6+.Di;5f"Y?PQNG$/;$R+9(J9gnUJb,5RrDpm":m[@<V.",PJI*%mo2HLN$ej0c/Gjg;8,[RCI5U1MeYhbF7q7NsrFF$"9MPJjZg8,kad[jMpS,Y<?"Iq89.tGm^=`)5n+Np[h-fNZ^%?uenu\;L'5tke_4$uVMVkiW]b,11hcr.*F<(fmetp8;h_Vc7<hjpQ]L?Ej)t?>&/7;S'Q73anXbC5$Ci#o(pZO\dj>mS&60aET.V(;>@J9?dodN\R476m'RW:^uPI7"(A:iA7fRPT[fg&@RFenb?O26`"7fX:F1PP=a:oKddAXmeUB/!gN+3EB9TY9;#8k=U1*NC]>1h>Da1nCsS>]`rXj/@4S>5#P:meDaD94nb7Q2t\d\V)[W,)%25Z\%;L9)uq=_c_3&S*mTV4QY/p.So0&Uuge*TDIC1f"^fXIdF99,ZoKN<Us"sp3OUJMa6rjp\4XHMRia;hY9CVq3eSM*?7Lj'#rf3X1iP<I$h?k&N*oj3)2UrkJOVrJ")BL.kM&8@TcF=23CQ_(N,mi\Bd_)-:h9B=Xo]*2fE#(<u8FV+,r`73Z:CP`\YeAkt2tLRdf?FS.h+Ud00/c=+&rM3#.MW[Y0O9L`c.@PG*eNM(MR0qk4eQ8:Z\k+QZ%Kc-X<^To:^0rqcgVU9?=$J1q=E<?b'R/"R+&:BlbZS/!,l.Y$EZqEmd+cN<cXcL1SnpjmnsY120/;(!kj.0K[C$('d*$_!,G9^hj.57:Nl;5EW@4B7^g'dn"NCJXnH9'X`mjd/,q='aqV=pcqYWinib+3#lS[Kit5*:I*(NnVZP-LKCdFmlmlY'MQ]p/YFB(128">n>Qc@BfIgrjk`goC;_GH/DU"QsSSYVo)tXSND$%T`t5Mi<s*!AJY?+jHlR$n1?[5ju5=8j@1QZQ$En71&qXHLb(^[+K3T;Z[^=a>h%kUq>Gb[9G/2`?NBe=(P()P^jsboUOY-Ca-AMhS206NA$iep')3C4r,*e'BbJjI&HsY0"D.*"lH=Vr[N,%l^[!?K,Z+*)_Y&EDYPR$\G5f4lcVGSZT5#.jlK[Fq0%8ns0`aM0^I\*L\)F!pp,tq9ceTn^p/h5Ke8WrBHO_U9mO/$Y0`=X?opaC$l79-ZO1a"]>Dg_8Gco)hf;tghPKqANL6MUk;a@4^oN]W<=fD$q^@L/,N;qRoqjG4aHAh[P\9c4):Z4\cYV&Gp?!J4*)1?dU"YcK\Y^j?.j=gWh'Kg$'iB]1ToILG[P=<F)U.I?>%rC`c"7>9FL9LG@':T"b^c"\6`VmmW`t_GPQ2po.FEBdK&t;1cjV77CQR5([Ll44Y)^++O((/L<X9n^5(^[G_^^RR!4;P=F%Q:s7Wr74IjpPPHa+;r[rp$h2]!!.,p=F'A(0S1iTOd*IR8C\dV4qA3hm=V)Ip&dVIGJ9/BqY<T5j_cIlg(`<otRE6HkEH0,>`G-=F2W9HlkncQ\-uq`@QKM[sr4n3#&Y?pR1`qSYquX7mMgkgoF#q?NmM0e6i%;K_[QeP4uid?[rcaQFD10hQYKoU_[8#e=]uV&-\V*P=%]Knq994"<9umH5]$P[%NPuI3M[!=bd\3[qs_QkVAUq!O0t=!dt3FH+dPBO=N1$4ruG5>PK<QPEe+9T(\fXpm-k+,p%;ZE[l'O5S8-`bk?f<C;j;NX?iXh,$2bM[b?M3p&h"C9;1(#68bD3WilWmh@A,.S_%rUi3pDM18g'fp]=VJQmT[2C8`PNkr3Me2I,fQr@Ce:Z+p.1E:q91g++W,q6a#sgPiSe6Odr:CYo<D][^pdabJ'4,](4P'te*.J"o7"5rs*E'0anY),C'hF[`KF>e^Wsr"@^>C&YG0_f[(Rg@-Vc(OXl)HIq>)WiRI_X:M)f.P\u:#:ZWd@PcgWO9WJ%U8"a!\5Xe<W';;p3D##6LVoq/\=H+_&pXpsUl>Bifg<&?W`Ej$O0SV&#)_u2q2.6YV#&1d`^OTHl$F0"s7YMHO`iHYqm17t-d[^DqR7XXkO.ZJG%gb[BphUG`E`MK*'qZ23R(Z'388B."rd,8s#aE\BqXUPE:qPo[;Vu0B@f<<Y8h8M](^gdn&-dGqeNCR/K]?*Y07j[o6jjC:KqR`8^7F7L'Ki<QfdqTpXJ2Pkj\Pn<cBp6r'Rj-;fO+$qFondL:=d((K7#-:>>Dl^AIMB9@8!l'KR9il*]4W$3EnYM@)sKbA1nZ,N6S*.FXr)C$lc0-BQ#k2u\`^a<U3l+)9lo.eV;9SOMj4E!ZGqaqBO64:u7GS.Ng]%*;!`YYcSPi>2IX,J,HNq\(.4c&cPY,&IV<#hOPCY59&j3qt;`G^eVeLPL'N72BT_njM:2Oa('Ggd'nCTEraTWk0=Rq)D:L6)=KXg2Ua':]BJ4p?Q/I`DGB;5[)*R-//-SVtpj,l)CKU]r.4qf3MV[hH7CSYmb-Adep*CD*'YWr#Z=Cs!21Xc9K<G_7D-Oo<gjN-#_&M-Ju*%jJGmmg%3O+Y,uC`mB>"$;QkYoj8gY@>q/Iq5?'X'H'Uoi;cBQe_#u:Pb*=K8(G@\h_IW&Ra5T\16YO[bV:.pH2ZAg?&TBd=L'7X0<NB02h/7Za5o19+:?R34$UUNunJF8D1r/b$7@JNbdR7]Regu[3pOu>FL[2-4)L_ng6qhMG)p^/U\9`,kT<"BNO=%e;*r$KWC$(uES7)";Oh/l4G,+_3@gs6D>c0JBqqKdET>sWDL?l%;84qQ[+ldq$;)t.cSW8&?fe&7=jt/#uB$:b3(?MIkgUDCH:F9ms="d"$mmPEed=>WBBi!!IV#0(XqbUY_Md:2k$O\Fp"ffbj.EmNZV#m%#=p*ikrdnZZ"*1?ee'iqe24MiU*R,_D8"-G=#&hZO0jpb"C^=2+'TOEE&.05OV4mCF?[g[C[IQ9cR#RtU_`h>4BFt4dMoA4Q/"MA9U>-)i(("]84^lh8M",60pgM6g3F]^a[%(CRs3B!B5?9Ls>!NneMC_g5RtS/kU,h/=YjjJ&(9.<o+<#0C2f?4Rlor/B\UU'sGs-&Z(hn4:-"XjNX;l*e?>^(?S([OZZ!eec/jV<c_trXJfh!VBaN;@_YP':"Md*>P9UFbi9-MdKW:`R*F?&AB1qie)e?3pt_3gir<`*1!0cGptEB!r:5aoNNMk\hbl#_[Nnk,A"`C'SH+"1&1NMbTp2`dO1DM9oBAN28:"a(-CUlYb>269re#,&gJJM%f;mHs<>rV\(,M<[5%o[A=R4Wn]8L`=*1Z[KPN&J]B,`ZT,<bdffO3ZBff)`>;N10oiBc6Orrn*>=1hr\:%XA1?AY0b')(F<iK?Y%1A_HESP/RY/Hh$6g;2&mGl?Ab4JBA?!98P&_0DLOb"!5%R1<o88lR\?*s\?G/@ZMQkb.%[-`R.H7%!*u-Z0=Log7a01ubo57-U\TDf(&01p^6H'3$6,&&SRAuQESJ5,oWb:?9#bV(MlQ(.XPbq@df>,m*#Rs[%9/43<3@"$"Gd,p:mjWZJ,oX>,Dk>)4t_>cfG'Cae'qV0[)-GY:F[a/JYo)')]PL.,ouCCGe1Jt"pYClePa&3-HZt*.F``DSGs_mp.3pQ2P5kohMO2)'5foK[2tB5p<W%f[<M3i!io9lkgH,^76r:Ti2s/nBL^Xc5%6\lDR^<:?&9FP--WP?)Gd_b%rZdnn)nhAP-A2IS$#<$Fs5s.Q#IaW$1FG94/>k&b:;oMr%tP:+H?S1MWRUer:%qrmdd-0`]'A,Dh]/?B0<)BZp;O3ZtHSMHC7O4!9sa`ji'[M-,gVKIB_1&QI+QKK$$pJ14[APliS2SBj3JF1<Q.5fMJC'<l=?QA-&,2huPK>K.1D;;a:lG>J5>?^&i^CAAP+a.A2NdbEaaGmHl4U8s-gUeM<>,;<6V2*/?BCPgNZ]J&8NBAj%/M]SmK3S;o[kVB($Goc-0&rDSt<$W..EW3dBGXZA\M7*V_N.V:YUTC39)Q*S+EW]S\lI4&U:O>%d"\./qLqi@/If:$Mo`(b0J/FOjcV`TKC_3qFQSU*1"X,I@2fNB\`>+4ENB,Ulqc)D:X/F=KnET;_=_[WLWerp^;E6N>JfW_h8HGWjn>a2,3l(C;BX6Rl#X,%Pdh#S"k3Z>9PBS/Vb`#Ioai[$=k-BuVuO<tH'TCNgfp4OV#%c\s&B_LfGWDj39ih6[/MHi]0)achZ+q^HnpW>"iOL)a+KoMp%QNClC+RpqnZS@7t*!I08#0M]k^\%H]]%dL([^nm6c]5O6ADDJC-#>R_G91Ml%aFD]gA^A!#,*Nm:]dF1FF!F<(QH5QlH?'%]PC`"BDaX-rA@)SN@32@1WdY3)>CiIli)<EgXRYJKnS\'E9OJg(hqc@X^%FhDfD-d':;8ss%9WX=CH2UIYfn^"=MDl\+pt$787E(k&^<iEM$%[:F0j*6cPhV`+b:s$%pAIY9o@d!LM9ef@Q?_-D<SDEt/$gM:4:rTF2h*8EMXaX",RKNg[6Y3biPM#"WE:&"d6!4[mbFb#(V6Ts,BS)_i;9$H<2)37>*PR'2?'i>-J2qR>@'G9hN074&._M@F(g5[)UJ4`3Io9ns@d*K<.9!d,IEpE&#[nmstb;G"\9[>O3*@]i"$W"j*![']S8N;Ik+j7U^URjlC7[.RDHE]E+9F("s]b\Fc<A3Z83>teJ[CiZ+]$_3%,[Wa+ncC-N,Qs61]+_X<X+^Yd[>.M6RC?s*XXUi\O39,Z>E].Mje`(ngfl7cR@Q`!P)/cO#:sFrP1apD!qF:,2o]ag<M-+nC-$1P7-QiY<JD4da]qeaZU'9,B_#bPFiJN[W!rX1$`s2eQp_mI6H@3^`T*$ENkFV2X))0]V$5mPm^Y]Qt;/hn`*IJ<lN>XdL5`Y]@E\!plXMJ5X0]h2`E#q[)cR8'lUQ4;dH[i*Zck?ejD0kI&4B8/6($NVg*,V*E/AeiU)1.g%RWQ:_XPX[K*m])HCjVUeVh)2jce\cis*7Z"gDS&2AE/@jgVnj5=N5\IiudQBm^[8UnN:)H<)m\?3>H*p#rZP#?<aF=cBXGtg[`5=\,4H`>\@R/UFGN.7,o]r04@#jPM"bp3F="H:UM[=,.C7SG"PAa.P&[C2N,Q@E]IlLlEj`CNhN,KY(;\3>][rk6]+!Xb4RE0EB9X;<QI7dUC6r*C`J+]<U@Y$R7mg?F$t#DdBVR3C#^(F69+82b,pa0qo<,MO:H)"\rJ,.B2E'?K1XBc\7*uSo\fZHc2#SI,;eIslL_/U/_Oqdp4gj#a8U8HS1EEhf0M]Q8%\4@OOdr&dcT4G]]#JqG?i9M:Z*bed&?2:ZuL:oE4A':Dpe4K>tm!:e?J=uoU6-Ncb,bt6!B?_SC9\b^[I`'AZ3^2%!4A%)((m4AB&][iOS,`%Ba=6fINJD]\F]`5(E3nDH0hB8UZ#(=]n12DLPSs>qd+uXf[@u"j766OX<?a`$sL%UGX:Gh&nQ99O4+dc/]q$Mb:eCE='35o]^r2$_VZgE"!\=2"E<p[D'*Cr9Cunja-X4Q<PM,`JdR@66IlA3KeC`Bd[DnTp5::L\l1Ss7#tcp:!O5W@puG=>`^-_'uVR]$clrX8ehS2A@kep/N.7"f:T610,N7=@V"/cL,p5j#iL3S8PX)lO9@Zf_2_.NcrI(/@t#mM?i#eb)OQ%Sk@-u*24,\D@BVh*GF<qWHgAgg`Nk?a8`=#)kaU;kt"<XGg1:ODHM<1='qSd>ADM$d4LTJQ.=I:_W?HM-HBreQDEGn<g-He>ZtH?l1K?a4$-.`'1`FQ'F,@6R^3lk7ZfI&3?_ii%1B@,b)p9,1m1>Js15eQmdBN.l=uV*G/o)!)J:>0E;gg1Bm84Q@Q"P1"R9,RNV(4'h&AmhckP9(nf1E8:8Q_nipQaXdTktiSO_jc%h1?Y=/M%ZQq>IP3R!TkbXr&)oVU2/bT!55RdHG'Hl(OcYIE00!,:iW4bkuqe""^A/aajfgbOnr*J$"$bFXr..,u318K=<XE4EWV?R)!C<`,6"eM+>Y1ipV<(M@l_9\?gtKSEC-/SWfHi3UOF]#ert,J<KeA]Gm@BT61DaY=J3CcZEN7<o>gD8hAIO$C@qA84B/Wi@`iFCX<E!!WlsWT:]fS9^@b7']%;5_R-UQEeg>je+J7pEsLL&n(n3"5:S-I-j&Z1u?Ve)eic)oe^l&n">RBI`T"(aQr069eIrc_eR$K1sO@"2Pbag9s.tk>/GE\flNtBH9>6CUFWig9%0hnR?_Q[^V&UW%j.CTA'(gs94mYaeNV@s45/XVT.lgPZCR(.2#HfTgVJ(%/dZ5tYID"PVJV)Ec=7a<E0CY`)fG6h#1ts\]6g#RCPf/Ab>5((%5;##pr)cbIG,UleXnr2Y]WD/-_4Jic3$n<h2rAQThYK&cPgS^V?UsFDR!AVcq:@6nph^Ii^T\"hn-8&\?;t]]-Kdt/Z-qZaKf:._+I\PQ%f8;'Q)ke`E/:C:Orp1W^,7ZZ9c-cJ1[<0VAeq.-o0It,buls0`,$Ej%GGIH-;P7?4#;=%qJ@sk;uPTV]s@h:El%L=D_.2'9=_+f,EN&'0Vqo+-)eNp-mkTEUN-#n*fa_m-q1tLi6GhUQ:IPqV1mnL9]Rq>a'/DlLaO\FmX*e*:3/)[sJUXI^<NsLMuq7c2Ti.k<bYfGI(pXX+,Uhk[;iD/*#KYE?.SPp@a/8c"OZ7*o&r]@r$S;CP/`nmV1S9QNXbkUn)ke"2eu,K2Kgh<r_#'n!99t##pM,*\PSA(?F!W;ZUJmA3m.Za2MMmA]pB:Ya#1Sr-*mIK+8'NBFd"cMiT:G_0)SpG.3Y5BJ>?FRe,Wi\['7KGb@^Ah<n:D<q."49tWm%7j!/D1)gL>-EAfEUIDWrR5&1U^e?h.'C6IpBm<<X1.FY,b&sn3;at>$)*s],2L0^N]YELs+"]M0&mEa%fafr!\+<O:jj$-9RXs,J^;t2V(?aheFoBh.E,TD3gk8G[mbZlQ_<BiQn(nQ#So4RZG5(Ern@ggL[LW=t6gOb\G1YtZs)pX29[sp6PO\'XpE+5A%)j-.`f5?!h8_R/LV'=n4(DLL6<d[l3rq.a?&SGRX)GN$]tZ_?^GWMIk58ptCh;&pUPA>jJEn7u(Tm+)hA!'pBCbnoE&`gVb#E*=IFJMV^nAPG]UO/K+eFVus6K":C%;(fg"h$^/hJuZ6$&o*-A20Y=Z@)u*Z0[5=0Lb!i+_$iIe[=gFgR@9jLTb'%5PD#C'F_?m`sTo:p$Rj"isZgg:bZrG3*D5J^a,KP`*aH[/H>4#54q-CYOIHHD7<A4bpY%6iF7lT$!=lqUJLWLYFpQ'9*r7h)dC;*Nea8I?DF\iF.fb8t0I3g:"O>]W9;dU"-pRi5Yd\\*%RSE+cM(>Dm]<HXIpfRr:NumCfX*%jXoY3;9;@gG@]g/V3<6hAo2.[Zk840S\$:g)"F)%h5!7XDO$3r4niYM84b&=n"E#f@oIYp^/nDCEaY_7'Cku*kU6ghq@79!Z:DiU!"DcLXBc<r'Wur16u3I6JK:0\-RU.muk$gs64bZ(RG+bdeG9;a%gdHQ-8:Slg"X&euW#l0>[[@e##g,U<7*&i0/(tdq.#kfR_!"[mpqK2JsE,6MBJ.N=h,"D3Xb<W@2nT'a-aGqsUtpq/fg;cBdBXB@VnoR9EkMVkoFS?pIRrj?QLS5A[R?pb6([&DiU70c66d)P-jjrR'TL^s7tuqMaV!f&4-u/cT\(^tGjrBPIcE_R?:""s[u/gq'34Z_bdW1#lS)Qp)WA8,k3g(Y!5In.7R]ah>1*]sHD$[4f3<'7)Cu?Im[)@nV4toXj#02LO^Jfg:(K&[93':XTr-$@7J.H.)uMN3?5)iK5aY23Vu=1a>&GWuE+(jWA1Us(U>PdObWfiVYC[Q7Q0Zrqq'*EGug\OQta:i3\&d!BThCA>,fD*E-Jd*J=AH_F]]]G>+%Y]-cRDT*^`<$9`"J1`38t@BF[LI[]aggR[-PjBIsjD/Ar`+&![>M[m.?G;MCj,d$B/qP*k5,C9Y/#Ojt<g>(iHJj#[@:#1Z6/YNta6`U]7r\&>>O+YnHBPma^XknIk>2$A5m96u<lH*W//du>M7Vk;'$#FMQDMN,sM%'Q*n-.8.D-aF&C%%LAQAtM)fp[a\;HXu<Zg(eDFZeBhnqC(O.T)<QSPMl="uaMVQq_E\Aj%/#%f9t^!7.:WB?B_^`U'U2jcVc(:=hsNa_A&BntKf"-kpE2C3oEh(O:OtaZYZD`JYORmA\<sH5j\;!n\Ve>+T[\ote+&VJ:5H_Rh@oZgHSA[Go&lqALG,SasX"HYW@$MtSfq]sfH[r3Y&2Z,W-YN\t[fodJYT/\TPKF1Mk+lT*amf[^_lg_8Mrk'n*L)srd<rL'!6'$mpT?PqMh(\`(oaETWGC#+o(^#=U7Tmb1W%K5O.:Fs'OatrKL3-S.kq!%M9>54Au)bQ<<K;?"%Rg30+pGK/ABmsL,bdEkW!hDqe=fbK`aMU\L:B"WTaQ/p:m6gn&0M>O^nPdp/*jtnu&u$VnJ&QhcV&H)Y">l*T9JB'U]o8Lt,$O%oWg:afN]^6F%Qb>\`:E$5#tR1'MfZaDR5Sn#J'.g%;6G;W=as!Y4tm2YO/)P0S49sl1:PqQS-C?me&9YE6^8P_1t'17:kil\4/Y47i78/%gU(YFQGJm=Aoqp_e[);.nmZP6eX8R)k7-j*mCA;?%IVFCT8gHaZpgU&O$2A=H)<auChr[bV#Q!fpn=:VB2@smRmhs"3eLYQK[@%WNZHKKK?7CNrYLNi1Q:Go4fsdIG^*#.dn9D#K<:WsU8p<gY>"EA4KWZl>Q!1Mdl0ZWpXr8HH$Zf]/O@a'*H_>[p[cZSJVd.)+3Qjbb.cegMUE$s!s(7/#@0^G3J;4[(d],WIPtcqJg+ngC.oWf%OZI>E0+$]rt[2S2/?62D_G7;gl],VEiAN,5\;00or[N.=1B(%&QbV=Yp)ZMOfNX^X\&+`o`anS[3CT,-*lg5pmdFmk2P'`SmQJ\dCl#Jr^WP^H>(bXn':-FENoDpOCNa5-D=q`g6-VpD4eA=gJlj;WpFDtCA'Zbp:!6Yf'0sHnY5VR;S,$'gY4kQV^7B\44a-of+0dCBrmbt@CF<VJ&'kFLNi9Y/bdTJ4P93%^&=uQI:1C6l"^@G=iRIbS_/aa#V7'6-J:0V;op$]M[SeVU]IflCG\d_][qDf%N^A!TdW0g\;SJ5`2S:AGWa8G-6A/EqKuK5(^*_WkV]2h8Ri4jAUo#^dr5R9$B/`)=Q#[Qd:'U>eVS;O)-AdGgm<1?fnAuB9[LX,4q1D<@uPrPO@0QC&-[Td!-f/[M9%.Sor^WP\&dJVcG=uh53?WtGoA1B9<"`OOXT>(aD26brJp,lq4$7n(u3pfg!Jm7fGE?!mG$#-hUWEEdi!KNJ-6Bs`);.$j;Ueg#&Cs05,q0<e6qtdaU8kR/PRN\+`eRU!?J:i0cV9+ifc2i&!@gMkO;;UT?0AH0[/t@]>NS]P;,Y0n<Caq*ku9,O->UdIOJQ#79iG"pqW294G'c#U7*'6]KXjkGgj+L#GG)Dka3L=9-M9SoLcW/6QbPoqCZ/t#GOW?.'R9j"MgnZi[n5Bq.`s3@:`WI'La5\WEGoWo/9As3HEO=+sh%>n._46Cq[U_m,.""D<d%]mIkJbnS^k\O)40>^!mpLgf0Q$'(i0p"Au34V<Qth+\s]o]OXs]lYaqAPD-(h_@gFb"5(\-<)-nu(bC_WNCi4@1.9`<F`g!:&MZV:h?7sF\)\ti[aMOX=<.'bQ(V"^Th(_KnBM_5ica5sK5f%Z-"g`UGDoD,PVlWiF`MQ5EJWqD[siNiR1Akd8E4(s.4gr^SeNe!0NF/0NjADTM;!6``ln[+s38dUeH;f$'#8l6Hi9E<U?d/806AM,S#XpkW(!gs,T#^Do\ed<O+0A%?$A\jnW'82P^o1Bj6>psCi=6IB?FR=!m1QMl!Xf,m<1QR331Se?QQ3Vjr#KC;>rg;G"IIFEe4AH:D?+m8Rhcpi>mmTE:T/-SgfJ,F1;h%.(_HmOk'$&H$YaC5o)L^)$_M\P4%@$;ooD?ks&-':U6cr]NGI++-T9=K#ZK_n_GR*'i<_f#i`qK-5]O^4d&T=\4)OcHl,Ndd0h=N0tm1Ve!aU7QIsRO>LOBn4!hV<5OiPkne"fC;GN(G6PDkIA:9Fe.f?;uU:"L'%PaHHJne+G%;`OZ/f7lYi!s#DeC:jCh7BXgY<MdCPOpV;m"_8ELCrb0ehUSj7=tc%(GAN1PE\*4i2i4JE9/ks;)=EXFEDU)i=ns^:2e#n0ZD:K1T`E/:@6&MHMJmkLl8!!Phm9Eo-[D/^0[8g"MqQiZ;<W:Chc8k!p.:n":JmCF)uCR(*g^*4))qU`>J+sp.sI15>b9qoUqAWPV4'PC?HX(R]`>JE9+gBH[D?Rg@W7hjI4r@b6-_R;\Q>C,bOL"0/_9+7Z^*C4LePVGsuMhUn&UT37R3*-DeIX.T#b.91t2plNL7tOeYSQ$E3GR!6]["4Cp6S@#k*IGM5VCPNgPo%h&l.f4hSEGYAP=.9dq)eE?EPB7l;$9A(-f[r;d)M*4S<UR2H4$KM3/TO5i'`$YZV=dRc4@r41:oc"hhBcmg3AFa+\OX-QG3@<"l?'OkM)ujN-)sc+qJ.2c0opS>3W:r>EC"ZH`g?lHUhnd"pban>&@-X/Zad;ll0+LHYR[SVD+SB8hqI*<.9Nn+um3sC_+8lPH&ZFTgKp'[bXeKnG22ZU#EL*A=4`Bp/`Pgi?7uqVeN7O0@MA:M,pH]D#[^MnD8`cXABt/`BJ4(Rnn.MuGnAFoP2L'V1;R+VuoK0)#N"JpY;2LL`gCUm6:1m%sE)E9pPWk3c^L*9IbpVT1EjXU4Z=qX[mG#,-F3d![9]?IGli\c^0d8+2@f2]E'R#V;K@)=K#Z?6HY#4@reV3QEGk1(sGM+1Rd>Y'$A4-kRhkC!e0:oSO0Ce(RfQ0u#0;;-5^G)%(ZDZq16CP8"8q_46:pFJp:mgnZng"H+eDKUAd#k0NIm>'/+=rMobsM>L)d;B>VJnju&1fum8o8E^E(H\5<-#-Ri".7ZH6GW`2=]SkG135s-p*#/WA['ic3$,(A>+OYhsUfuW.dJK/deD:bsjWYbFIg&0Xqmt:1]GF&oP8MQnXmINMh>5CuZ(G382,fj[s?M8I@0aE`9tS^+D'T^WFEjHl4,iTGHL8;CPEXBl1I=]jK6%%NIZOq4[Vb\e7Y_@On<64Zf&+ajfHcqO<gqAJU>GRQ=N!ha*iue5Z::45/RkO"8Z(gT,Ho?511b)GH9WML8!E+MIK,A]GI80$;V4:8_h"/B]A--A>)qrg6AUA:r;!&.\0nl%,\LZ6Q:>Eba*ZDbI9[!W9`p\0AZ+iV3bH"s$PV6)GJ9-(ZA>8i`%/1_9.Nak*1uNB@TU!Ce<ZO)*^?@>3,[)BXJ,EIRdlfa@TL7D*cRI@]m^i*_),.WO,T^\m)pJ+W5GK3aQ1[4PT:o;-/lO&,4k@cioqHTDqqbXn(a/J,XArj^R`W,LFjDc7\GW$](a]h_7;euW"N4\Y9l5*Lt4'1U%GJY7(8PF44>db=o??0$a%q+V_DE6-tq+Oh9SZLjkPS/ED?ERWokEapOdLA&t5(=3]$LF+>[Vt#P#K)b-&b!$f'O)T1$l(A[/^pJ>g8>5W5hgV`Ln#&],8TP>P6%AKg6Z5*"jLM/+oN6($e'ahHbXb.!V..oJTcR.G?`u$p=H6.Gp[*Rqc@pVK9'6[)6s3[&$--PgkV>C/e,^DJ)7FMC6I6W764\*8NRD^nF>sQ+!F>5?]Mb'0^-83ST7MqgnmUKa:eU"`Mnrd4g63ir#hd<sAB7VpM#HfT3(F-EoSrHm?,PVTT8l7=>^qi\Agg(h1f$\?X]gCh.4E>W'VsB"[E-M?6<T>_6Dl9T7fFdZAE=:&JV6oh&tcD0WZi70lng%F)nHcSL,r819E>d)6W")Q70&u3C4HcHl>Tpn/6T9#ku*tL$QVsO6J(7:)JQ%X"=fM17N5`Q!Jf=F8VsWdd)`EgT_@<;!1Ri\\8gf`WV>7r0;sj%08,j&5%O@Md%9./jQ,N%AEQgl<_7I9EFGD__\+c@lD':U?kc&TQ3e+Kd`Jk6Df;QL+dAg\qMVV@=&&`1Y^FfAJ-n"S*CXs%-<koFGM;DaXC0,C-Ft/nJOt0k'2F]_V2.$\+/"`10($K[AB\O&Q_p"[3'ZY(*q6)l-p03#j@9D3Nu^<jI/.fhr!k1B!RBX<E(fj/a_<![i6j]\1pZ./!tC^S*,0\q?CrHHlm"/4;ba2l`3g?VEQ3qTd#@0&=Bs6ePY?2W"P,bjl-S[O6ip3$7P^BZi.2-K<-.6J?*I];jXDCe7^(DEMGOt2_g^$O\-d`n4;3lT#BWAfPO`(Cg')'ogG$3X&c`QE&.g/f)XX5OjOaZqi<&&6BGJL_WPNB%Y/Qg6!R8oqj7ki(4&',Y"kqaZ8LrrcWL9:?R/A1S(d]-\a:9N;1#%P[1d9>U-5d5+Vpbqh!*AAM-6#;@7VC&=%IAplVGPG-Ll^BJh<<5;?@-PF\omc)Im5u_,%g%e$?fFk6=)6=#V<fX"6<Wh=u_-89/Id1VfV>m)1>/$)P*1q4rR\$oN^<J$>Z:E2CN>V%[fP250ur4%EcWO'D=eC7j?#A">Yl*nhlB_\?5[8*n!r%R*NKfnlTf/K\:(p,N(V=EbP%fBg@B(A&&1mQA4tXQ"E%],a5Kj6NA8R4c4b%J^AWTrq!')C>pJ"L-7BbL[6kZ<,La^#+?gZh]kqr/B*(C'+Y8R,Y3tY<]#Z#O9SU&#l#8H]9<Q7^V9hF"3be+<Ebsc<`srFY?/q#VO9Zs9,hG9:7S"-.UM5Shc`PQUJ,!ta(/,@*(F*`67/,k<QI!::TkV40J>G:[.G2mDs#93fRq)`a+R%g>Y4nA+tO3754OTHYD3N?S=II59XZ*Y`0LU3EFuSD`nC^BZu-9./p'-#S7INA8O#$D`oH5od4jOV2();ChaGN<mIl5A(W*,"ie]$Hs86rRK5u`r-)%k@A27"c#(Vm][sWc4=nTqZBd@/2BeY8!a:b79VJoaqF_P_=2PBB6:S3Y^pmB06B$Hc5"/&=B]ksL!$,0=U+5e16G3n[c#he9*?mMZu-H@Mq4$2\2nLKJ>0="O%*2E=),\&1hNY,.YIX0A\1b*7'?[]m-A"ZNX=?qcG]P'!82BDitB''!-anVhOUIHhR2OaYoq'e;OkhRb:8f7H:oC/"nqU-N1@C1jDalH.38DLZ78>c>*Z"h7`)J'\]+/4QM)m[4Qd<si5`mI5=]9j#>Y;&ON3H(5'qFTf=CC/\Gf^VPAils7L&\?!+_WA+Iq#Wop?:!\%VO0gJ%H[Tj5Dg^I~>
+endstream
+endobj
+14 0 obj
+<<
+/Annots [ 15 0 R 19 0 R 20 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 41 0 R 42 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 61 0 R 62 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 75 0 R 76 0 R 79 0 R ]
+/Contents 80 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 81 0 R /Fit ]
+/Rect [ 526.7447 722.0276 532.5827 735.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 5463
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (1. Preface) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL 1.062524 Tw (Over the course of six weeks, I systematically worked through the full development lifecycle for both) Tj T* 0 Tw 1.750497 Tw (assigned projects. Week 1 was dedicated to understanding the problem statements, setting up the) Tj T* 0 Tw 1.706397 Tw (development environment, sourcing sample datasets, and beginning exploratory work on the Weed) Tj T* 0 Tw (Detection image dataset and the traffic dataset for the Smart City project.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 583.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 91.2 Tm /F1 10.3 Tf 14.5 TL 1.182004 Tw (Week 2 involved in-depth study through the assigned e-book "Learning Python" by Mark Lutz and a) Tj T* 0 Tw .300574 Tw (supplementary video tutorial, followed by Pre-Quiz-1. Week 3 focused on hands-on learning of NumPy) Tj T* 0 Tw 2.373605 Tw (and Pandas through Jupyter Notebook exercises, which formed the analytical foundation for both) Tj T* 0 Tw -0.094787 Tw (projects. Week 4 involved completing python_Pre: Quiz-2 as a formal knowledge assessment. Weeks 5) Tj T* 0 Tw 2.074983 Tw (and 6 were dedicated to building and evaluating the Weed Detection classification model and the) Tj T* 0 Tw .387728 Tw (Traffic Pattern forecasting model, refining all scripts, conducting testing, and preparing the final project) Tj T* 0 Tw (repository and this report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.2 Tm /F1 10.3 Tf 14.5 TL 1.611405 Tw (Practical internships are indispensable in the career development of software and data engineering) Tj T* 0 Tw 2.040572 Tw (students. They provide the environment to apply theoretical knowledge to tangible problems, build) Tj T* 0 Tw .519251 Tw (professional coding habits, and develop the analytical mindset required in the industry. This internship) Tj T* 0 Tw 1.029406 Tw (fulfilled that need by presenting clearly defined, industry-relevant problem statements that demanded) Tj T* 0 Tw (thoughtful engineering and modelling solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.2 Tm /F1 10.3 Tf 14.5 TL .659514 Tw (The assigned project suite addressed two distinct real-world challenges: the difficulty of distinguishing) Tj T* 0 Tw .25779 Tw (unwanted weeds from crop plants at scale without excessive manual labour or indiscriminate herbicide) Tj T* 0 Tw .693559 Tw (use, and the lack of accessible, data-driven tools for understanding and anticipating traffic congestion) Tj T* 0 Tw 2.892362 Tw (patterns in growing urban areas. Each project was scoped to be a focused, standalone Python) Tj T* 0 Tw (application solving one of these problems effectively.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL -0.086545 Tw (I am sincerely grateful to upskill Campus \(USC\), The IoT Academy, and UniConverge Technologies Pvt) Tj T* 0 Tw .169843 Tw (Ltd \(UCT\) for designing and delivering this structured internship program. The platform, resources, and) Tj T* 0 Tw 1.419716 Tw (mentorship provided enabled a focused, progressive, and industry-aligned learning experience. This) Tj T* 0 Tw (opportunity has had a meaningful impact on my technical growth and professional confidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 257.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 76.7 Tm /F1 10.3 Tf 14.5 TL 1.995939 Tw (The program was structured as a six-week engagement: Week 1: Project orientation, environment) Tj T* 0 Tw -0.097164 Tw (setup, dataset collection, and initial exploration for the Weed Detection and Traffic Forecasting projects.) Tj T* 0 Tw 2.590343 Tw (Week 2: E-book study, video tutorial, and Pre-Quiz-1 assessment. Week 3: NumPy and Pandas) Tj T* 0 Tw 2.646506 Tw (modules with Jupyter Notebook practicals. Week 4: python_Pre: Quiz-2 assessment. Weeks 5-6:) Tj T* 0 Tw .253828 Tw (Model building, evaluation, and completion of both projects, full testing, GitHub deployment, and report) Tj T* 0 Tw (preparation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 161.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 76.7 Tm /F1 10.3 Tf 14.5 TL 1.34496 Tw (This internship provided an immersive, hands-on learning experience that significantly advanced my) Tj T* 0 Tw -0.088017 Tw (Python and applied machine learning skills. Working across two distinct project domains exposed me to) Tj T* 0 Tw .771297 Tw (a wide range of concepts \227 from image pre-processing and classification to time-series analysis and) Tj T* 0 Tw .775651 Tw (forecasting. The structured curriculum, combined with practical project work and formal assessments,) Tj T* 0 Tw 3.16239 Tw (made this one of the most productive and professionally rewarding learning experiences of my) Tj T* 0 Tw (academic career.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+19 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 81 0 R /Fit ]
+/Rect [ 62.69291 719.9276 112.3054 732.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 84 0 R /Fit ]
+/Rect [ 526.7447 691.0276 532.5827 704.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+22 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 6011
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (2. Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 739.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (2.1 About UniConverge Technologies Pvt Ltd) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL .608782 Tw (A company established in 2013 and working in Digital Transformation domain and providing Industrial) Tj T* 0 Tw (solutions with prime focus on sustainability and RoI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.2 Tm /F1 10.3 Tf 14.5 TL 2.412866 Tw (For developing its products and solutions it is leveraging various Cutting Edge Technologies e.g.) Tj T* 0 Tw 4.780479 Tw (Internet of Things \(IoT\), Cyber Security, Cloud computing \(AWS, Azure\), Machine Learning,) Tj T* 0 Tw (Communication Technologies \(4G/5G/LoRaWAN\), Java Full Stack, Python, Front end etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (i. UCT IoT Platform \(UCT Insight\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.2 Tm /F1 10.3 Tf 14.5 TL 1.102979 Tw (UCT Insight is an IOT platform designed for quick deployment of IOT applications, at the same time) Tj T* 0 Tw 2.576005 Tw (providing valuable "insight" for your process/business. It has been built in Java for backend and) Tj T* 0 Tw (ReactJS for Front end. It has support for MySQL and various NoSql Databases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .423771 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (It enables device connectivity via industry standard IoT protocols - MQTT, CoAP, HTTP, Modbus) Tj T* 0 Tw (TCP, OPC UA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 523.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (It supports both cloud and on-premises deployments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 502.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (It has features to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Build Your own dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 458.5276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Analytics and Reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Alert and Notification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.5276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Integration with third party application \(Power BI, SAP, ERP\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 397.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Rule Engine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 379.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (ii. Smart Factory Platform \(Factory Watch\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (Factory watch is a platform for smart factory needs. It provides Users/ Factory:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 337.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (with a scalable solution for their Production and asset monitoring) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 316.5276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (OEE and predictive maintenance solution scaling up to digital twin for your assets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .793181 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (to unleash the true potential of the data that their machines are generating and helps to identify) Tj T* 0 Tw (the KPIs and also improve them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .987165 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (A modular architecture that allows users to choose the service they want to start with and then) Tj T* 0 Tw (scale to more complex solutions as per their demands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (Its unique SaaS model helps users to save time, cost and money.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 205.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (iii. LoRaWAN based Solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 172.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL .870944 Tw (UCT is one of the early adopters of LoRaWAN technology and providing solutions in Agritech, Smart) Tj T* 0 Tw (cities, Industrial Monitoring, Smart Street Light, Smart Water/ Gas/ Electricity metering solutions etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 151.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (iv. Predictive Maintenance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 103.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.2 Tm /F1 10.3 Tf 14.5 TL .148288 Tw (UCT is providing Industrial Machine health monitoring and Predictive maintenance solutions leveraging) Tj T* 0 Tw 2.643697 Tw (Embedded systems, Industrial IoT and Machine Learning Technologies by finding the Remaining) Tj T* 0 Tw (Useful Life of various Machines used in the production process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 81.52756 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (2.2 About upskill Campus \(USC\)) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 84 0 R /Fit ]
+/Rect [ 62.69291 688.9276 135.6154 701.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 84 0 R /Fit ]
+/Rect [ 527.0227 664.5276 532.5827 676.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 84 0 R /Fit ]
+/Rect [ 76.69291 662.5276 276.7929 674.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 84 0 R /Fit ]
+/Rect [ 527.0227 638.5276 532.5827 650.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 84 0 R /Fit ]
+/Rect [ 76.69291 636.5276 220.6229 648.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 527.0227 612.5276 532.5827 624.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 5345
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 744.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL .785466 Tw (upskill Campus, along with The IoT Academy and in association with Uniconverge Technologies, has) Tj T* 0 Tw (facilitated the smooth execution of the complete internship process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 692.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.2 Tm /F1 10.3 Tf 14.5 TL 3.031659 Tw (USC is a career development platform that delivers personalized executive coaching in a more) Tj T* 0 Tw -0.125284 Tw (affordable, scalable and measurable way, spanning career growth/upskilling, professional networking, a) Tj T* 0 Tw (collaboration platform, and a job/internship platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 670.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (2.3 The IoT Academy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 1.712111 Tw (The IoT academy is the EdTech Division of UCT that runs long executive certification programs in) Tj T* 0 Tw (collaboration with EICT Academy, IITK, IITR and IITG in multiple domains.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 611.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (2.4 Objectives of this Internship program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (The objective for this internship program was to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 565.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (get practical experience of working in the industry.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 544.5276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (solve real world problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (have improved job prospects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.5276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (have improved understanding of our field and its applications.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0276 cm
+q
+BT 1 0 0 1 14 4.2 Tm 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (have personal growth like better communication and problem solving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (2.5 Reference) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL ([1] upskill Campus Official Website: https://upskillcampus.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL ([2] UniConverge Technologies Pvt Ltd \(UCT\): https://uniconverge.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 391.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL ([3] Mark Lutz, "Learning Python", 4th Edition, O'Reilly Media, 2009) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 368.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL ([4] Jake VanderPlas, "Python Data Science Handbook", 1st Edition, O'Reilly Media, 2016) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 346.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (2.6 Glossary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 178.0276 cm
+q
+0 0 0 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 5 146.5 Tm (Terms) Tj T* ET
+BT 1 0 0 1 90.03937 146.5 Tm (Acronym) Tj T* ET
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 5 126.5 Tm (USC) Tj T* ET
+BT 1 0 0 1 90.03937 126.5 Tm (upskill Campus - career development platform and internship organiser) Tj T* ET
+BT 1 0 0 1 5 106.5 Tm (UCT) Tj T* ET
+BT 1 0 0 1 90.03937 106.5 Tm (UniConverge Technologies Pvt Ltd - industrial partner and project provider) Tj T* ET
+BT 1 0 0 1 5 86.5 Tm (IoT) Tj T* ET
+BT 1 0 0 1 90.03937 86.5 Tm (Internet of Things - interconnected network of smart devices) Tj T* ET
+BT 1 0 0 1 5 66.5 Tm (API) Tj T* ET
+BT 1 0 0 1 90.03937 66.5 Tm (Application Programming Interface - protocol for software communication) Tj T* ET
+BT 1 0 0 1 5 46.5 Tm (ML) Tj T* ET
+BT 1 0 0 1 90.03937 46.5 Tm (Machine Learning - algorithms that learn patterns from data) Tj T* ET
+BT 1 0 0 1 5 26.5 Tm (CNN) Tj T* ET
+BT 1 0 0 1 90.03937 26.5 Tm (Convolutional Neural Network - deep learning model used for image classification) Tj T* ET
+BT 1 0 0 1 5 6.5 Tm (ITS) Tj T* ET
+BT 1 0 0 1 90.03937 6.5 Tm (Intelligent Transportation System - technology-driven traffic management systems) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+.75 w
+n 0 160 m 481.8898 160 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 160 l S
+n 481.8898 0 m 481.8898 160 l S
+n 0 140 m 481.8898 140 l S
+n 0 120 m 481.8898 120 l S
+n 0 100 m 481.8898 100 l S
+n 0 80 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 85.03937 0 m 85.03937 160 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+31 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 76.69291 610.5276 172.2929 622.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 527.0227 586.5276 532.5827 598.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 76.69291 584.5276 256.2129 596.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 527.0227 560.5276 532.5827 572.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 76.69291 558.5276 139.5029 570.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 527.0227 534.5276 532.5827 546.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 85 0 R /Fit ]
+/Rect [ 76.69291 532.5276 132.8229 544.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 86 0 R /Fit ]
+/Rect [ 526.7447 504.0276 532.5827 517.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+40 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3093
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (3. Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (In the assigned problem statement:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.2 Tm /F1 10.3 Tf 14.5 TL 1.321551 Tw (In today's digitally driven environment, agriculture and urban infrastructure face recurring challenges) Tj T* 0 Tw .808083 Tw (that, while addressed piecemeal in the past, are increasingly being solved through data and machine) Tj T* 0 Tw (learning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 603.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.2 Tm /F1 10.3 Tf 14.5 TL 1.401882 Tw (In precision agriculture, weeds compete with crops for nutrients, water, sunlight, and space, directly) Tj T* 0 Tw .564691 Tw (reducing yield and crop quality. Manual weeding is labour-intensive, slow, and does not scale to large) Tj T* 0 Tw 1.183205 Tw (farms, while blanket application of herbicide across an entire field is costly, environmentally harmful,) Tj T* 0 Tw .373111 Tw (and often unnecessary. There is a growing need for an automated system that can visually distinguish) Tj T* 0 Tw (weeds from crop plants so that treatment can be targeted only where it is needed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.2 Tm /F1 10.3 Tf 14.5 TL 3.758955 Tw (In urban transportation, rapidly growing city populations and vehicle density have made traffic) Tj T* 0 Tw .07952 Tw (congestion a persistent and costly problem, affecting commute times, fuel consumption, and air quality.) Tj T* 0 Tw 2.091214 Tw (Traffic authorities often lack lightweight, data-driven tools that can analyse historical traffic volume) Tj T* 0 Tw -0.094787 Tw (patterns and forecast near-term congestion trends at specific locations and times, which limits proactive) Tj T* 0 Tw (planning such as adaptive signal timing or targeted infrastructure investment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 454.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL 5.237005 Tw (This project set was assigned to address both of these challenges through well-designed,) Tj T* 0 Tw .323047 Tw (independently functional Python applications: a Weed Detection system built on image processing and) Tj T* 0 Tw 2.856559 Tw (machine learning, and a Smart City Traffic Pattern Forecasting system built on time-series data) Tj T* 0 Tw (analysis and predictive modelling.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 86 0 R /Fit ]
+/Rect [ 62.69291 501.9276 170.0554 514.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 87 0 R /Fit ]
+/Rect [ 526.7447 473.0276 532.5827 486.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+44 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 5613
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (4. Existing and Proposed solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 577.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 163.7 Tm /F1 10.3 Tf 14.5 TL .32648 Tw (Existing approaches to these challenges are either manual, resource-intensive, or lack accessibility for) Tj T* 0 Tw .519605 Tw (small and mid-sized operators. Weed management is typically performed manually or through uniform) Tj T* 0 Tw 1.633144 Tw (herbicide spraying across an entire field, both of which are inefficient \227 manual weeding does not) Tj T* 0 Tw 1.095259 Tw (scale, while blanket spraying wastes chemicals and harms non-target areas of the field. Commercial) Tj T* 0 Tw 1.327297 Tw (precision-agriculture drones and vision systems exist, but they are expensive, proprietary, and often) Tj T* 0 Tw .680176 Tw (require specialised hardware and internet-connected cloud services. Traffic pattern analysis, similarly,) Tj T* 0 Tw 1.947872 Tw (is often handled by large, proprietary Intelligent Transportation System \(ITS\) platforms that require) Tj T* 0 Tw 1.590147 Tw (significant infrastructure investment, or is not performed at all in small and mid-sized cities, leaving) Tj T* 0 Tw 2.710072 Tw (traffic authorities to rely on historical intuition rather than data-driven forecasts. The fundamental) Tj T* 0 Tw 4.759772 Tw (limitation across both existing approaches is the absence of a lightweight, transparent, and) Tj T* 0 Tw .405788 Tw (Python-programmable solution that a student, researcher, or small organisation can build, understand,) Tj T* 0 Tw (and extend.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 2.810697 Tw (The proposed solution is a two-part Python Application Suite that addresses each of the above) Tj T* 0 Tw (challenges through a dedicated, standalone project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.5276 cm
+q
+BT 1 0 0 1 14 76.7 Tm 3.024588 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Weed Detection Project:) Tj /F1 10.3 Tf ( A Python-based image classification pipeline that pre-processes) Tj T* 0 Tw 1.167136 Tw (leaf/field images using OpenCV \(resizing, colour-space conversion, and noise reduction\), extracts) Tj T* 0 Tw 1.342047 Tw (relevant visual features, and classifies each image as "Crop" or "Weed" using a trained machine) Tj T* 0 Tw .367856 Tw (learning model \(a Convolutional Neural Network built with TensorFlow/Keras, benchmarked against) Tj T* 0 Tw .68593 Tw (a classical model built with scikit-learn\). The output supports targeted herbicide application instead) Tj T* 0 Tw (of blanket spraying.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 350.5276 cm
+q
+BT 1 0 0 1 14 76.7 Tm 1.501536 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Smart City Traffic Pattern Forecasting Project:) Tj /F1 10.3 Tf ( A Python-based data analytics pipeline that) Tj T* 0 Tw 4.754988 Tw (loads historical traffic volume data using Pandas, performs exploratory data analysis and) Tj T* 0 Tw .277118 Tw (visualisation \(using Matplotlib/Seaborn\) to identify peak-hour and location-wise congestion patterns,) Tj T* 0 Tw 2.761707 Tw (and applies a forecasting model \(time-series analysis using statsmodels/ARIMA, benchmarked) Tj T* 0 Tw 1.824005 Tw (against a regression-based model in scikit-learn\) to predict short-term traffic volume trends at a) Tj T* 0 Tw (given junction or corridor.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 91.2 Tm /F1 10.3 Tf 14.5 TL 1.331011 Tw (The key value addition of this suite lies in its simplicity, transparency, and full reproducibility. Unlike) Tj T* 0 Tw 3.485896 Tw (proprietary commercial platforms, these projects require no specialised hardware, no third-party) Tj T* 0 Tw 3.205966 Tw (licensing, and no vendor lock-in. They are open-source, easily extensible, and serve as strong) Tj T* 0 Tw 1.944439 Tw (educational references for anyone learning applied machine learning and data analytics. The suite) Tj T* 0 Tw .849205 Tw (demonstrates that practical, production-relevant tools can be built with core Python, NumPy, Pandas,) Tj T* 0 Tw 1.601885 Tw (and open-source ML libraries alone \227 making it both a functional proof of concept and a powerful) Tj T* 0 Tw (portfolio asset.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (4.1 Code submission \(GitHub link\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (https://github.com/ayushisbca2024-cell/upskillcampus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 176.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (4.2 Report submission \(GitHub link\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 139.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL (https://github.com/ayushisbca2024-cell/upskillcampus/blob/main/WeedDetection_TrafficForecasting_A) Tj T* (yushi_USC_UCT.pdf) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+45 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 87 0 R /Fit ]
+/Rect [ 62.69291 470.9276 231.9004 483.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 87 0 R /Fit ]
+/Rect [ 527.0227 446.5276 532.5827 458.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 87 0 R /Fit ]
+/Rect [ 76.69291 444.5276 228.4029 456.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 87 0 R /Fit ]
+/Rect [ 527.0227 420.5276 532.5827 432.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 87 0 R /Fit ]
+/Rect [ 76.69291 418.5276 234.5129 430.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 88 0 R /Fit ]
+/Rect [ 526.7447 390.0276 532.5827 403.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+52 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3853
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (5. Proposed Design/ Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL .468964 Tw (The project suite follows a modular, pipeline-based architectural design. Each application is structured) Tj T* 0 Tw 5.452788 Tw (around clearly defined stages responsible for individual operations such as data ingestion,) Tj T* 0 Tw .846006 Tw (pre-processing, model training/inference, and output generation. This separation of concerns ensures) Tj T* 0 Tw (clean code organisation and ease of maintenance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 670.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (Both applications leverage the following shared design principles:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm 2.776359 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Modular Pipeline Architecture:) Tj /F1 10.3 Tf ( Each stage is encapsulated in a dedicated function \(e.g.,) Tj T* 0 Tw 10.51409 Tw (preprocess_image\(\), train_model\(\), predict_class\(\), load_traffic_data\(\), forecast_volume\(\)\),) Tj T* 0 Tw (promoting reusability and readability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 553.5276 cm
+q
+BT 1 0 0 1 14 47.7 Tm .004074 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (File-Based Data Persistence:) Tj /F1 10.3 Tf ( The Weed Detection project stores the trained classification model) Tj T* 0 Tw .499266 Tw (and labelled image datasets on disk for repeatable inference. The Traffic Forecasting project reads) Tj T* 0 Tw -0.07278 Tw (historical traffic data from a structured CSV dataset, enabling analysis updates without modifying the) Tj T* 0 Tw (core script.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm -0.102265 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Procedural Flow Control:) Tj /F1 10.3 Tf ( Each project follows a clear main execution flow \227 initialise, load data,) Tj T* 0 Tw (pre-process, train/infer, evaluate, and return output.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 469.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .288505 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Error Handling:) Tj /F1 10.3 Tf ( Input validation and exception handling are implemented across both projects to) Tj T* 0 Tw 3.351379 Tw (ensure graceful failure and user-friendly feedback, including checks for missing files, corrupt) Tj T* 0 Tw (images, and malformed data rows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 434.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 2.626876 Tw (The design prioritises reproducibility, interpretability of results, and straightforward extensibility for) Tj T* 0 Tw (future enhancements.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 412.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (5.1 High Level Diagram \(if applicable\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (Figure 1: HIGH LEVEL DIAGRAM OF THE SYSTEM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 370.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (5.2 Low Level Diagram \(if applicable\)) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+53 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 88 0 R /Fit ]
+/Rect [ 62.69291 387.9276 196.8934 400.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 88 0 R /Fit ]
+/Rect [ 527.0227 363.5276 532.5827 375.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 88 0 R /Fit ]
+/Rect [ 76.69291 361.5276 243.4129 373.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 88 0 R /Fit ]
+/Rect [ 527.0227 337.5276 532.5827 349.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 88 0 R /Fit ]
+/Rect [ 76.69291 335.5276 241.1929 347.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 89 0 R /Fit ]
+/Rect [ 521.4627 311.5276 532.5827 323.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/Contents 60 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+60 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2505
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 505.0577 41.35433 Tm (Page 10) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (5.3 Interfaces \(if applicable\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 710.0276 cm
+q
+BT 1 0 0 1 0 33.2 Tm 1.343605 Tw 14.5 TL /F2 10.3 Tf 0 0 0 rg (Weed Detection \227 Data Flow:) Tj /F1 10.3 Tf ( Input Field/Leaf Image ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Pre-process \(Resize, Colour Conversion,) Tj T* 0 Tw 4.165451 Tw (Noise Removal via OpenCV\) ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Feature Extraction ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Load Trained Model ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Predict Class) Tj T* 0 Tw (\(Crop/Weed\) ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Confidence Score ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Display/Log Result ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( [Optional] Trigger Targeted Action.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 643.0276 cm
+q
+BT 1 0 0 1 0 47.7 Tm .170955 Tw 14.5 TL /F2 10.3 Tf 0 0 0 rg (Traffic Pattern Forecasting \227 Data Flow:) Tj /F1 10.3 Tf ( Load Historical Traffic Dataset \(CSV via Pandas\) ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Clean) Tj T* 0 Tw 1.353047 Tw (& Structure Data ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Exploratory Analysis \(Peak Hours, Location-wise Volume\) ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Visualise Patterns) Tj T* 0 Tw 4.894258 Tw (\(Matplotlib/Seaborn\) ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Train Forecasting Model \(ARIMA/Regression\) ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Generate Short-Term) Tj T* 0 Tw (Forecast ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Evaluate Accuracy ) Tj /F4 10.3 Tf 14.5 TL (\256) Tj /F1 10.3 Tf 14.5 TL ( Display Forecast & Trend Report.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+61 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 89 0 R /Fit ]
+/Rect [ 76.69291 309.5276 199.5229 321.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 520.9067 281.0276 532.5827 294.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/Contents 64 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+64 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 5835
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 505.0577 41.35433 Tm (Page 11) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (6. Performance Test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 1.575397 Tw (The performance of each application in the suite was evaluated against real-world engineering and) Tj T* 0 Tw (modelling constraints to ensure reliability, accuracy, and robustness beyond an academic prototype.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (The following engineering constraints were identified and addressed for each application:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (Weed Detection Project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm -0.035609 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Constraint \227 Image Quality Variance: Field images vary in lighting, angle, and background clutter.) Tj T* 0 Tw 5.539008 Tw (Resolved by applying consistent pre-processing \(resizing, normalisation, and colour-space) Tj T* 0 Tw (standardisation\) before feeding images to the model.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 595.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .904297 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Constraint \227 Class Imbalance: Crop images significantly outnumbered weed images in the raw) Tj T* 0 Tw (dataset. Resolved by applying data augmentation and class-weighting during model training.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 577.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (Smart City Traffic Pattern Forecasting Project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 530.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm -0.080703 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Constraint \227 Missing/Noisy Data: Real-world traffic logs contained missing timestamps and outlier) Tj T* 0 Tw 4.282674 Tw (readings. Resolved by implementing data cleaning, interpolation, and outlier-capping before) Tj T* 0 Tw (analysis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 480.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm 3.000582 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj (Constraint \227 Forecast Drift: Simple models lost accuracy over longer prediction horizons.) Tj T* 0 Tw .194228 Tw (Resolved by limiting forecasts to a validated short-term window and retraining periodically on recent) Tj T* 0 Tw (data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 462.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 10.3 Tf 12 TL (Test Results:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 400.5276 cm
+q
+BT 1 0 0 1 14 47.7 Tm .861429 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Weed Detection:) Tj /F1 10.3 Tf ( The classification model was evaluated on a held-out test set of labelled field) Tj T* 0 Tw 7.521206 Tw (images and achieved consistent accuracy in distinguishing crop from weed classes.) Tj T* 0 Tw .726885 Tw (Misclassifications were concentrated in visually ambiguous, overlapping-canopy images, which are) Tj T* 0 Tw (noted as an area for future improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .575433 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Traffic Pattern Forecasting:) Tj /F1 10.3 Tf ( The forecasting model was evaluated against a held-out portion of) Tj T* 0 Tw .115139 Tw (historical traffic data using standard error metrics \(MAE/RMSE\) and produced forecasts that tracked) Tj T* 0 Tw (observed peak-hour and off-peak trends closely across the test window.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 272.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.2 Tm /F1 10.3 Tf 14.5 TL 2.381515 Tw (Engineering constraint dimensions assessed: data quality \(cleaning and validation applied to both) Tj T* 0 Tw 5.20764 Tw (image and tabular datasets\), model performance \(accuracy, precision/recall for classification;) Tj T* 0 Tw .303724 Tw (MAE/RMSE for forecasting\), execution efficiency \(both pipelines ran within standard desktop hardware) Tj T* 0 Tw -0.004464 Tw (and memory limits\), and robustness \(both scripts handled missing files, corrupt records, and malformed) Tj T* 0 Tw (inputs without unhandled exceptions\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 191.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.2 Tm /F1 10.3 Tf 14.5 TL 5.193415 Tw (All identified constraints were addressed and verified through testing. For future production) Tj T* 0 Tw .226914 Tw (deployment, the following recommendations are noted: expand the weed image dataset with additional) Tj T* 0 Tw .123097 Tw (crop species and field conditions to improve generalisation; deploy the traffic forecasting model against) Tj T* 0 Tw 3.386762 Tw (a live data feed \(e.g., IoT traffic sensors\) for real-time predictions; and introduce a monitoring) Tj T* 0 Tw (dashboard for both models to track performance drift over time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 169.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (6.1 Test Plan/ Test Cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (6.2 Test Procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.0276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -0.5 Tm /F2 12.5 Tf 12 TL (6.3 Performance Outcome) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+65 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 62.69291 278.9276 163.0624 291.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 521.4627 254.5276 532.5827 266.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 76.69291 252.5276 191.7429 264.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 521.4627 228.5276 532.5827 240.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 76.69291 226.5276 161.7329 238.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 521.4627 202.5276 532.5827 214.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 90 0 R /Fit ]
+/Rect [ 76.69291 200.5276 193.9629 212.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 91 0 R /Fit ]
+/Rect [ 520.9067 172.0276 532.5827 185.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/Contents 74 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+74 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 4520
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 505.0577 41.35433 Tm (Page 12) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (7. My learnings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 2.615655 Tw (This six-week internship has been one of the most technically comprehensive and professionally) Tj T* 0 Tw (formative experiences of my academic journey. The following key learnings were acquired:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm 2.776359 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Core Python Mastery:) Tj /F1 10.3 Tf ( Deepened my understanding of Python syntax, data types, control) Tj T* 0 Tw (structures, functions, modules, and object-oriented principles through real project implementation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm -0.09172 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Image Processing Fundamentals:) Tj /F1 10.3 Tf ( Gained hands-on experience with OpenCV for image loading,) Tj T* 0 Tw .066214 Tw (resizing, colour-space conversion, and noise reduction \227 foundational skills for any computer vision) Tj T* 0 Tw (application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm -0.082287 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Applied Machine Learning:) Tj /F1 10.3 Tf ( Learnt to build, train, and evaluate classification models \(CNN-based) Tj T* 0 Tw -0.075411 Tw (and classical scikit-learn models\) for the Weed Detection project, including handling class imbalance) Tj T* 0 Tw (and avoiding overfitting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 536.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .767472 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Time-Series Analysis and Forecasting:) Tj /F1 10.3 Tf ( Learnt to structure, visualise, and forecast time-based) Tj T* 0 Tw 2.628952 Tw (traffic data using statsmodels/ARIMA and regression techniques, understanding key evaluation) Tj T* 0 Tw (metrics such as MAE and RMSE.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm 4.536414 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (NumPy and Pandas:) Tj /F1 10.3 Tf ( Completed structured learning in numerical computing and data) Tj T* 0 Tw 1.395796 Tw (manipulation using NumPy arrays and Pandas DataFrames through Jupyter Notebook practicals,) Tj T* 0 Tw (establishing a foundation for data analysis and data science work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 451.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm 2.869151 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Data Cleaning and Preparation:) Tj /F1 10.3 Tf ( Developed practical experience handling missing values,) Tj T* 0 Tw (outliers, and inconsistent records in both image and tabular datasets before modelling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 416.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm 2.505842 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Debugging and Problem Solving:) Tj /F1 10.3 Tf ( Developed systematic debugging skills through iterative) Tj T* 0 Tw (testing of each project, learning to isolate errors, trace logic flows, and implement clean fixes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .444597 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Professional Documentation:) Tj /F1 10.3 Tf ( Learnt to document code, write structured reports, and prepare a) Tj T* 0 Tw 1.736059 Tw (GitHub repository for project submission \227 skills that are essential in any professional software) Tj T* 0 Tw (engineering or data science role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 332.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 18.7 Tm /F1 10.3 Tf 14.5 TL 1.089539 Tw (These competencies collectively position me strongly for roles in machine learning engineering, data) Tj T* 0 Tw (analysis, computer vision, and applied data science.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+75 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 91 0 R /Fit ]
+/Rect [ 62.69291 169.9276 138.5554 182.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 92 0 R /Fit ]
+/Rect [ 520.9067 141.0276 532.5827 154.0276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/Contents 78 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+78 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 3996
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 505.0577 41.35433 Tm (Page 13) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+.121569 .435294 .698039 rg
+BT 1 0 0 1 0 -3 Tm /F2 15 Tf 12 TL (8. Future work scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.0276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.2 Tm /F1 10.3 Tf 14.5 TL (The following professional enhancements are planned as future extensions of this project suite:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .906505 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Weed Detection \227 Drone Integration:) Tj /F1 10.3 Tf ( Extend the image classification pipeline to process live) Tj T* 0 Tw (video feeds from agricultural drones, enabling real-time, field-wide weed mapping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 649.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .095982 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Weed Detection \227 Model Upgrade:) Tj /F1 10.3 Tf ( Experiment with transfer learning using pretrained networks) Tj T* 0 Tw .767066 Tw (\(e.g., MobileNetV2, ResNet\) to improve accuracy and reduce training time on larger, more diverse) Tj T* 0 Tw (datasets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 614.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm 1.680597 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Weed Detection \227 Automated Spraying Integration:) Tj /F1 10.3 Tf ( Connect the classification output to a) Tj T* 0 Tw (GPS-tagged, targeted spraying mechanism to fully automate precision herbicide application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm -0.066859 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Traffic Forecasting \227 Real-Time Data Feed:) Tj /F1 10.3 Tf ( Integrate live IoT traffic sensor data or public traffic) Tj T* 0 Tw (APIs to replace static historical datasets with continuously updating input.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 544.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .195822 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Traffic Forecasting \227 Advanced Models:) Tj /F1 10.3 Tf ( Explore deep learning-based sequence models \(e.g.,) Tj T* 0 Tw (LSTM\) for improved long-horizon forecasting accuracy compared to classical time-series methods.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 509.5276 cm
+q
+BT 1 0 0 1 14 18.7 Tm .496712 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Web Deployment:) Tj /F1 10.3 Tf ( Deploy both projects as interactive web applications using Flask or Streamlit,) Tj T* 0 Tw (allowing users to upload images or query traffic forecasts through a simple browser interface.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.0276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .492136 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (GitHub Portfolio and CI/CD:) Tj /F1 10.3 Tf ( Establish a professional GitHub repository with full documentation,) Tj T* 0 Tw 1.97343 Tw (README files, inline code comments, and automated testing pipelines using GitHub Actions to) Tj T* 0 Tw (demonstrate industry-standard software delivery practices.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 410.5276 cm
+q
+BT 1 0 0 1 14 33.2 Tm .045719 Tw 14.5 TL /F1 10.3 Tf 0 0 0 rg (\177) Tj ( ) Tj ( ) Tj /F2 10.3 Tf (Dashboard and Visualisation Extension:) Tj /F1 10.3 Tf ( Build a unified dashboard \(using Plotly Dash or Power) Tj T* 0 Tw 2.164839 Tw (BI\) to visualise weed-detection statistics and traffic-forecast trends side by side for stakeholder) Tj T* 0 Tw (reporting.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+79 0 obj
+<<
+/Border [ 0 0 0 ]
+/Contents ()
+/Dest [ 92 0 R /Fit ]
+/Rect [ 62.69291 138.9276 167.7244 151.5276 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/Length 7631
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL (TABLE OF CONTENTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 135.5276 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 603 cm
+Q
+q
+1 0 0 1 0 584 cm
+q
+BT 1 0 0 1 52.47276 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (1. Preface) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 572 cm
+Q
+q
+1 0 0 1 0 553 cm
+q
+BT 1 0 0 1 78.74376 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (2. Introduction) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 545 cm
+Q
+q
+1 0 0 1 0 527 cm
+q
+BT 1 0 0 1 214.1298 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2.1 About UniConverge Technologies Pvt Ltd) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 519 cm
+Q
+q
+1 0 0 1 0 501 cm
+q
+BT 1 0 0 1 164.0898 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2.2 About upskill Campus \(USC\)) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 493 cm
+Q
+q
+1 0 0 1 0 475 cm
+q
+BT 1 0 0 1 114.0498 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2.3 The IoT Academy) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 467 cm
+Q
+q
+1 0 0 1 0 449 cm
+q
+BT 1 0 0 1 197.4498 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2.4 Objectives of this Internship program) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 441 cm
+Q
+q
+1 0 0 1 0 423 cm
+q
+BT 1 0 0 1 80.68976 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2.5 Reference) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 415 cm
+Q
+q
+1 0 0 1 0 397 cm
+q
+BT 1 0 0 1 72.34976 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (2.6 Glossary) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 385 cm
+Q
+q
+1 0 0 1 0 366 cm
+q
+BT 1 0 0 1 113.7718 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (3. Problem Statement) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 354 cm
+Q
+q
+1 0 0 1 0 335 cm
+q
+BT 1 0 0 1 175.0708 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (4. Existing and Proposed solution) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+Q
+q
+1 0 0 1 0 309 cm
+q
+BT 1 0 0 1 172.4298 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (4.1 Code submission \(GitHub link\)) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 301 cm
+Q
+q
+1 0 0 1 0 283 cm
+q
+BT 1 0 0 1 172.4298 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (4.2 Report submission \(GitHub link\)) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 271 cm
+Q
+q
+1 0 0 1 0 252 cm
+q
+BT 1 0 0 1 140.0428 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (5. Proposed Design/ Model) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 244 cm
+Q
+q
+1 0 0 1 0 226 cm
+q
+BT 1 0 0 1 180.7698 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (5.1 High Level Diagram \(if applicable\)) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 218 cm
+Q
+q
+1 0 0 1 0 200 cm
+q
+BT 1 0 0 1 180.7698 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (5.2 Low Level Diagram \(if applicable\)) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 192 cm
+Q
+q
+1 0 0 1 0 174 cm
+q
+BT 1 0 0 1 141.8498 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (5.3 Interfaces \(if applicable\)) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 162 cm
+Q
+q
+1 0 0 1 0 143 cm
+q
+BT 1 0 0 1 107.9338 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (6. Performance Test) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 135 cm
+Q
+q
+1 0 0 1 0 117 cm
+q
+BT 1 0 0 1 133.5098 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (6.1 Test Plan/ Test Cases) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 109 cm
+Q
+q
+1 0 0 1 0 91 cm
+q
+BT 1 0 0 1 100.1498 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (6.2 Test Procedure) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 83 cm
+Q
+q
+1 0 0 1 0 65 cm
+q
+BT 1 0 0 1 133.5098 2 Tm /F1 10 Tf 12 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11) Tj T* ET
+BT 1 0 0 1 14 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (6.3 Performance Outcome) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 53 cm
+Q
+q
+1 0 0 1 0 34 cm
+q
+BT 1 0 0 1 81.66276 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (7. My learnings) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 0 22 cm
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 107.9338 2.5 Tm /F2 10.5 Tf 12.6 TL 0 0 0 rg ( .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 13 TL /F2 10.5 Tf 0 0 0 rg (8. Future work scope) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+81 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+82 0 obj
+<<
+/Contents 83 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+83 0 obj
+<<
+/Length 1685
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 RG
+n 56.69291 55.35433 m 538.5827 55.35433 l S
+BT 1 0 0 1 56.69291 41.35433 Tm (Industrial Internship Report) Tj T* ET
+BT 1 0 0 1 510.0617 41.35433 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 715.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL .937521 Tw (I would like to express my sincere gratitude to the entire team at upskill Campus, The IoT Academy,) Tj T* 0 Tw 3.331505 Tw (and UniConverge Technologies Pvt Ltd for their effort in creating this well-structured internship) Tj T* 0 Tw -0.050495 Tw (program. I also thank the online developer community, open-source contributors, and the authors of the) Tj T* 0 Tw (study materials that supported my learning throughout these six weeks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.5276 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 47.7 Tm /F1 10.3 Tf 14.5 TL 1.314728 Tw (To my fellow students and future interns: embrace project-based learning with full commitment. The) Tj T* 0 Tw .222731 Tw (process of building something from scratch \227 cleaning data, refining models, and seeing it finally work) Tj T* 0 Tw 1.444666 Tw (\227 is where real engineering growth happens. Stay consistent, practise daily, and always document) Tj T* 0 Tw (your work. Your code tells your story; make it worth reading.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+65.6554 0 0 24.22238 70.51876 807.4036 cm
+/FormXob.6a033dd40457dc7fe17217c26422d583 Do
+Q
+q
+29.91383 0 0 36.05 282.6809 801.4898 cm
+/FormXob.557f4d292637611dfa10df098dc5fe62 Do
+Q
+q
+65.6554 0 0 23.87469 459.1014 807.5775 cm
+/FormXob.0af8b3103731bfdfca9e71603e93325e Do
+Q
+Q
+
+
+endstream
+endobj
+84 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+85 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+86 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+87 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+88 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+89 0 obj
+<<
+/Contents 60 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+90 0 obj
+<<
+/Contents 64 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+91 0 obj
+<<
+/Contents 74 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+92 0 obj
+<<
+/Contents 78 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/XObject <<
+/FormXob.0af8b3103731bfdfca9e71603e93325e 11 0 R
+/FormXob.557f4d292637611dfa10df098dc5fe62 12 0 R
+/FormXob.6a033dd40457dc7fe17217c26422d583 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+xref
+0 93
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000198 00000 n 
+0000000247 00000 n 
+0000000673 00000 n 
+0000004719 00000 n 
+0000004826 00000 n 
+0000004933 00000 n 
+0000005045 00000 n 
+0000005164 00000 n 
+0000005242 00000 n 
+0000010437 00000 n 
+0000030144 00000 n 
+0000046846 00000 n 
+0000047582 00000 n 
+0000047731 00000 n 
+0000047919 00000 n 
+0000053475 00000 n 
+0000053538 00000 n 
+0000053687 00000 n 
+0000053836 00000 n 
+0000054024 00000 n 
+0000060128 00000 n 
+0000060277 00000 n 
+0000060426 00000 n 
+0000060575 00000 n 
+0000060724 00000 n 
+0000060873 00000 n 
+0000061022 00000 n 
+0000061210 00000 n 
+0000066648 00000 n 
+0000066797 00000 n 
+0000066946 00000 n 
+0000067095 00000 n 
+0000067244 00000 n 
+0000067393 00000 n 
+0000067542 00000 n 
+0000067691 00000 n 
+0000067840 00000 n 
+0000068028 00000 n 
+0000071214 00000 n 
+0000071363 00000 n 
+0000071512 00000 n 
+0000071700 00000 n 
+0000077406 00000 n 
+0000077555 00000 n 
+0000077704 00000 n 
+0000077853 00000 n 
+0000078002 00000 n 
+0000078151 00000 n 
+0000078300 00000 n 
+0000078488 00000 n 
+0000082434 00000 n 
+0000082583 00000 n 
+0000082732 00000 n 
+0000082881 00000 n 
+0000083030 00000 n 
+0000083179 00000 n 
+0000083328 00000 n 
+0000083516 00000 n 
+0000086114 00000 n 
+0000086263 00000 n 
+0000086412 00000 n 
+0000086600 00000 n 
+0000092528 00000 n 
+0000092677 00000 n 
+0000092826 00000 n 
+0000092975 00000 n 
+0000093124 00000 n 
+0000093273 00000 n 
+0000093422 00000 n 
+0000093571 00000 n 
+0000093720 00000 n 
+0000093908 00000 n 
+0000098521 00000 n 
+0000098670 00000 n 
+0000098819 00000 n 
+0000099007 00000 n 
+0000103096 00000 n 
+0000103245 00000 n 
+0000110929 00000 n 
+0000111357 00000 n 
+0000111785 00000 n 
+0000113523 00000 n 
+0000113951 00000 n 
+0000114379 00000 n 
+0000114807 00000 n 
+0000115235 00000 n 
+0000115663 00000 n 
+0000116091 00000 n 
+0000116519 00000 n 
+0000116947 00000 n 
+trailer
+<<
+/Size 93
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+117375
+%%EOF
